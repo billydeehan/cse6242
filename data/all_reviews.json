@@ -1,0 +1,796 @@
+{
+    "hospitals": [
+        {
+            "hospital_name": "Fredonia Regional Hospital",
+            "place_id": "ChIJ0YViUH-2uYcRU195n4nsdv8",
+            "reviews": [
+                {
+                    "author_name": "Braden Stamper",
+                    "author_url": "https://www.google.com/maps/contrib/111515647786249963651/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZRkMRzd5I9ZWqh2G5mxoW6XCdbHiEeziZQPp1G183jco0=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "2 months ago",
+                    "text": "Stopped by on the way home from Miami with my girlfriend who was extremely nauseous. Extremely helpful, quick and friendly staff answered all our questions and got my girlfriend out and feeling better faster than I could have imagined a hospital visit would be.\n\nI was honestly stressed and just wanted her to be ok, so thank you very very much to you all for making us feel safe and comfortable. It was my first time taking a loved one to a hospital and you couldn't have made it a better first experience.\n\nThank you again,\nBraden",
+                    "time": 1691472787,
+                    "translated": false
+                },
+                {
+                    "author_name": "Freda Reed",
+                    "author_url": "https://www.google.com/maps/contrib/102562393173149819800/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJnRvfW4qLfXp8uRPjxI1tEPmV_ys1k7iutvwdOz_Eqtc=s128-c0x00000000-cc-rp-mo-ba4",
+                    "rating": 5,
+                    "relative_time_description": "6 years ago",
+                    "text": "It 15 -   20 miles from fall  rivers",
+                    "time": 1500914551,
+                    "translated": false
+                },
+                {
+                    "author_name": "April Schultz",
+                    "author_url": "https://www.google.com/maps/contrib/110686490312185049574/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXr4t_32BMmshlNUHhlCjUe8_Gh0aVHh3u3WCNeFCb2Q=s128-c0x00000000-cc-rp-mo-ba3",
+                    "rating": 5,
+                    "relative_time_description": "a year ago",
+                    "text": "I have to go there every month to see Dr. Hill, she is the best. And if I have to have labs, x-rays, or scans they are the best at doing it. And they will work with you on making payments.",
+                    "time": 1644823817,
+                    "translated": false
+                },
+                {
+                    "author_name": "Coy Chism",
+                    "author_url": "https://www.google.com/maps/contrib/111692487323748825419/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ-XwOB4hR6jzmxQmSWmnw5iNTHfZT1p1Kd7nRREFk=s128-c0x00000000-cc-rp-mo-ba4",
+                    "rating": 3,
+                    "relative_time_description": "6 years ago",
+                    "text": "They. Have  very  few.  People  that  care. I. Know  of.  3. Of. Them  all. They  do. Is. Set. Around  on. Thir  phone  or. Coler N. Thir  books  they  bring  to. Work  I. Thank. The. Books  an. Phones  should  be  left  at. Home  they. R  thir. To. Work",
+                    "time": 1502918412,
+                    "translated": false
+                },
+                {
+                    "author_name": "Lanita Mapes",
+                    "author_url": "https://www.google.com/maps/contrib/106980045168473184953/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuLSs4_lj5t0d46sxsQYAijq9ar-JJk-Ygwa_QyetR5Uqs=s128-c0x00000000-cc-rp-mo-ba3",
+                    "rating": 5,
+                    "relative_time_description": "2 months ago",
+                    "text": "Nice people and helpful.",
+                    "time": 1691183545,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 37.5340345,
+                "lng": -95.8140128
+            }
+        },
+        {
+            "hospital_name": "Saint Francis Hospital Vinita",
+            "place_id": "ChIJ-VbudrnQt4cRVM-4POM5820",
+            "reviews": [
+                {
+                    "author_name": "Angela Davis",
+                    "author_url": "https://www.google.com/maps/contrib/117838385842606337677/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKny8POVpX_a7Om2p_2ePM1GDI34ozJvW0ieGxNaizIPH0=s128-c0x00000000-cc-rp-mo-ba4",
+                    "rating": 4,
+                    "relative_time_description": "3 months ago",
+                    "text": "After my daughter's accident that required stitches on the way home from our family vacation and not knowing where we were. We found y'all. Your staff was so nice and understanding. Had no problems at all with getting her seen and taken care of. Thank you so much for the kindness you showed my family during this time.",
+                    "time": 1689778696,
+                    "translated": false
+                },
+                {
+                    "author_name": "Jerimiah Mills",
+                    "author_url": "https://www.google.com/maps/contrib/100398980216524223229/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbup_zMaiDg8-CPK-pNroTWt4ge0sMfYyjHD02hAgC=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "5 months ago",
+                    "text": "Well if they had a negative  stars iwould put negative  5 went up there tonight because  my blood suger was at 500 in a diabetic  and the whole experience  was horrible almost gave my way to much insulin then laughed about it and when my blood results  came back i have kidney  failure so they put me in the nastiest  room the had the ER  doctor  acted like all i wanted was pills and told me he wasent going to help me with a hi. The the iv line came undone shooting water everywhere  and the lady nurse thought that was just so funny needless to say i told them to give me discharge  papers that i would reather go home and deal with it there they dident even argue they said ok no big deal how is this hospital  even still open how they are the rudest judgemental  place i have ever seen. So heres my rating.     NEGATIVE  10 STARS.  I will have this hospital  investigated for not doing their job this was a horrible  experience  screw that place",
+                    "time": 1685789772,
+                    "translated": false
+                },
+                {
+                    "author_name": "Blayze Ryker",
+                    "author_url": "https://www.google.com/maps/contrib/116855595200567381275/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwqovxA7JV5e9k2UWHIPXbipOKWaV8e7QN1SSEalrfO-A=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "5 months ago",
+                    "text": "Lovely!  He even made me a birthday banner and wrote me a sweet note!",
+                    "time": 1683856309,
+                    "translated": false
+                },
+                {
+                    "author_name": "Mona",
+                    "author_url": "https://www.google.com/maps/contrib/117196804924559941835/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJS3IsnpV4A0YzzSQx1G4LSsYC1IVxvjQ4M13mezFtz=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "6 years ago",
+                    "text": "I went in on a Sat. evening with a Recluse Spider Bite I had for 30 hrs. They were quick to get me back. The staff was kind compassionate and friendly. The Dr. Came in right away away and got an  IV flowing with antibiotics and fluids. I was very comforted and impressed with the new change. My discharge instructions were very explicit and easy to read. I am just grateful they were there.",
+                    "time": 1497243746,
+                    "translated": false
+                },
+                {
+                    "author_name": "Connie Martin",
+                    "author_url": "https://www.google.com/maps/contrib/101478521995952574180/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2XUsG-Zf-2nfi5VO5a0ttJdk2LxkUZUunYMsHLq3t=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "2 years ago",
+                    "text": "I had an issue with incorrect coding on a visit, so began a appeal with my insurance. I explained this to St Francis, whose rep put in my account chart. Immediately after this I got a letter from their collection agency who I proved appeal process to and they sent info to St Francis. After that I immediately began being harassed weekly about my account. I even made small payments to stop harassment, since I knew my appeal would take awhile but be successful. Even with the small payments, the harassment still persisted every week! This organization is the worst!!!!",
+                    "time": 1631197983,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 36.6540323,
+                "lng": -95.15632099999999
+            }
+        },
+        {
+            "hospital_name": "Coffeyville Regional Medical Center",
+            "place_id": "ChIJc-9nh3uEt4cRRYmH4fg46cc",
+            "reviews": [
+                {
+                    "author_name": "maddiryli",
+                    "author_url": "https://www.google.com/maps/contrib/110403091581379102417/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmwp9-b9kKpVpqzkPwgGJlsAHzo7jjk--D79wVZUxhsH4=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "a month ago",
+                    "text": "Very pleasant experience!! No wait time and the hospital was very very clean. All staff were so efficient and friendly made me feel very comfortable and safe while there I couldn\u2019t have asked for more! The nurse and Dr. Landon Vinson were incredible one of the best doctors I\u2019ve been to or experienced ever. Very knowledgeable and makes sure you are completely taken care of I very much appreciated it! Thank you to all staff for making the experience much better than it could\u2019ve been. Will definitely not hesitate to come back if in need of anything they are the absolute best!!! :)",
+                    "time": 1694490635,
+                    "translated": false
+                },
+                {
+                    "author_name": "susan carroll",
+                    "author_url": "https://www.google.com/maps/contrib/117493906565911514434/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7qkWo8jnLWSRJXmneAY5JgDQox4HbIj2FzL5DfCI=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "2 weeks ago",
+                    "text": "Took my mother for a swallowed ring. She was treated fine. Xrayed n all it took   less than one hour. In a big state we would of been there for a couple hours",
+                    "time": 1697146746,
+                    "translated": false
+                },
+                {
+                    "author_name": "Dan Al",
+                    "author_url": "https://www.google.com/maps/contrib/107920194590344949984/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJNre96R6eoFiwWsXhOzTS3If5p5DEqt-9iF9baIH1yWQ=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "7 months ago",
+                    "text": "This facility deserve NEGATIVE FIVE STAR. Worst service ever. Got charge excessively going to the ER. I did a lot of waiting around and it took 3 plus hrs for a 5min service. The Dr did not call me back for the results that I have been waiting on.\n\nI booked an appointment ahead of time. When I showed up, they said they called me prior to cancel my appointment which I did not receive. I checked my inbound history calls and there was not a single call from them what so ever. This happened 3 times already. I\u2019m FED UP with their services. DO NOT COME HERE. STAY AWAY and keep your money",
+                    "time": 1680533276,
+                    "translated": false
+                },
+                {
+                    "author_name": "Angelina Vaughters",
+                    "author_url": "https://www.google.com/maps/contrib/112911432288228531111/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZtGVVdBOL1QHcnRqLARWf0CEFsVx1nYhCaBC6Wl56=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "3 months ago",
+                    "text": "Worst experience we've had so far, and far from the first. My elderly father went to E.R. for severe pain, was given a SLEEPING pill, and sent on his way. Pathetic.",
+                    "time": 1689524511,
+                    "translated": false
+                },
+                {
+                    "author_name": "Kay Merritt",
+                    "author_url": "https://www.google.com/maps/contrib/110095221404640987609/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyNKq8mha0GU_csigLByhR0si1qKHA_t7hrPV70rlrMxo=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "2 months ago",
+                    "text": "I was treated very badly in the er was called a liar made fun of had the cops called on me because I was insisting to talk to my Dr I told them I had no feeling in my legs they made me get up and when I fell they refused to help me up and they said I fell on purpose then the nurses made fun of me falling",
+                    "time": 1692938308,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 37.0409835,
+                "lng": -95.6389649
+            }
+        },
+        {
+            "hospital_name": "Wilson Medical Center Neodesha",
+            "place_id": "ChIJIVSai3g0uIcRg01s8SfVCbk",
+            "reviews": [
+                {
+                    "author_name": "lindsey reyes",
+                    "author_url": "https://www.google.com/maps/contrib/109002923210608678382/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcTn3UhbuIYh9gvE6NRiH6zBeCSNZ-g4mp_J2yVktdVEA=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "2 months ago",
+                    "text": "My son had speech therapy at WMC rehab and all the staff there was absolutely amazing and SO kind!\nI was shocked that my son received mail from them wishing him a good school year and that they will miss him. Shows how much they truly care! \u2764\ufe0f",
+                    "time": 1692307801,
+                    "translated": false
+                },
+                {
+                    "author_name": "Ron Frazier",
+                    "author_url": "https://www.google.com/maps/contrib/111809590810309777089/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtgu68Rd98zL9QdqUm7S0f5JFq-_PQb_jDWAsvMFlB=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "3 months ago",
+                    "text": "One of the best experiences I've had in an emergency room with a hook buried in my thumb. No pain,very quick. I felt very comfortable and reassured by nurse and doctor. Very Good place and people.",
+                    "time": 1689022458,
+                    "translated": false
+                },
+                {
+                    "author_name": "Renae Spears-Green",
+                    "author_url": "https://www.google.com/maps/contrib/104448199491793727527/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdrpE1Pzt3zCWEv25yeZzc7fOGr62-piYdOS0pGuvXwbU=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "7 months ago",
+                    "text": "My very ill daughter was treated horrible by the nurse & the ER doctor.  They had absolutely no empathy for her as she was very sick and landed in MAdonna Rehab for recovery.   I would never take someone I loved to this ER.  The nurse was beyond rude and unprofessional. The Dr was just an overall jerk!   They cared less about my little girl.",
+                    "time": 1678941077,
+                    "translated": false
+                },
+                {
+                    "author_name": "John Freeman",
+                    "author_url": "https://www.google.com/maps/contrib/104284359421350727063/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL38EOgKOJTGe0-nnBc_arzGGC9Bl3DP7AHlVhcI5ga=s128-c0x00000000-cc-rp-mo-ba3",
+                    "rating": 5,
+                    "relative_time_description": "2 months ago",
+                    "text": "It's always clean, the staff is friendly and helpful.",
+                    "time": 1692824725,
+                    "translated": false
+                },
+                {
+                    "author_name": "Vinyl Destination",
+                    "author_url": "https://www.google.com/maps/contrib/109768630385625892474/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfNGikMWs4q0-4Nisy7FYpSugpfB-v8WoQk-PAzACP_Q=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "4 months ago",
+                    "text": "What a bunch of cruel, apathetic, immoral, bunch of Quacks. Refusing medical treatment in an emergency is against the law.",
+                    "time": 1686928041,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 37.4095412,
+                "lng": -95.7082799
+            }
+        },
+        {
+            "hospital_name": "Labette Health",
+            "place_id": "ChIJAV-dJgARuIcROz4gcefHo8s",
+            "reviews": [
+                {
+                    "author_name": "amy hernandez",
+                    "author_url": "https://www.google.com/maps/contrib/113689927629649757867/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnOz8buiUEE4bHA77jc5M1ZMNma0miW2f4pgDAym-O=s128-c0x00000000-cc-rp-mo-ba2",
+                    "rating": 1,
+                    "relative_time_description": "2 months ago",
+                    "text": "Daughter called sat thinking her water broke. They told her it was probably sweat since it was hot. They told my daughter to put a pad on and see if she leaked anymore, which she did not. I expressed concern but my daughter thought she had spoke to experts and that she was overreacting. She had a appointment with her specialist today only to find out her water had broke. Do not trust this hospital and they better pray my daughter and grand-baby are okay after they did not provide adequate health care. Daughter is currently on her way to a real hospital!",
+                    "time": 1691625938,
+                    "translated": false
+                },
+                {
+                    "author_name": "Sue Heckert",
+                    "author_url": "https://www.google.com/maps/contrib/106410781542466948679/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCIYZHceupsB-FE9mysaTXqrCDWMvAes5q4TCwSSw9=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "5 months ago",
+                    "text": "I could not have asked for better care. My nurse, mu nurse anesthetist; my aides; my surgeon\u2026great team! Even the clerk who checked me in was pleasant! Thank you for continued good care over the decades! Don\u2019t change a thing! Thank you!",
+                    "time": 1685286647,
+                    "translated": false
+                },
+                {
+                    "author_name": "Bily Curless",
+                    "author_url": "https://www.google.com/maps/contrib/100840484423831593877/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2gvzb7h-zAxoKm34H56crTEF18IT5YfUjP_i1RCpblAE=s128-c0x00000000-cc-rp-mo-ba4",
+                    "rating": 5,
+                    "relative_time_description": "5 months ago",
+                    "text": "To be honest I don't know much of anything about Labette Health other than I was born there on Wednesday January 20th, 1971 at 10:12AM. I lived at 1700 Morgan. My family moved to Wichita, Kansas in 1976. So I don't know anything about this Hospital other than it brought me into this world. Thank you. May God bless you always!",
+                    "time": 1684788212,
+                    "translated": false
+                },
+                {
+                    "author_name": "Barbara Allison",
+                    "author_url": "https://www.google.com/maps/contrib/116287395053418564570/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo6CWuBNEwUU61cWpWYoOGOj9ybJd7TzfY6y28svtE=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "in the last week",
+                    "text": "My sister works there and my husband had hip surgery there. He had excellent care and is doing well 9 no after surgery.",
+                    "time": 1698708984,
+                    "translated": false
+                },
+                {
+                    "author_name": "Sierra Keller",
+                    "author_url": "https://www.google.com/maps/contrib/100842756050152117003/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7kNoeTachL9eLUimLScvqQ89ic3Bvoj4ewG-WfPnYYqM=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "4 months ago",
+                    "text": "They literally tried to send my mom home with a leaking appendix, the nurses are rude, and they don't give updates or important info. This place is the worst hospital I've ever been to.",
+                    "time": 1686172693,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 37.3208863,
+                "lng": -95.26459790000001
+            }
+        },
+        {
+            "hospital_name": "Ascension St. John Nowata",
+            "place_id": "ChIJJ6Dk9TOkt4cRlheDPIxO-w0",
+            "reviews": [
+                {
+                    "author_name": "Sarah Rouse",
+                    "author_url": "https://www.google.com/maps/contrib/108978381627972493347/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP5Sls6wOODd8TINzV2ZuwXrP8T8GkPkBErtwHMYwK=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "2 years ago",
+                    "text": "If I could have done zero stars I would have! I was very upset with the care my son received here. The lady who answered the phone was rude, one of the nurses(I didn\u2019t  catch her name) was rude, the doctor that seen my son had disgusting hands, dirt all in his finger nails and didn\u2019t have the audacity to even wear gloves!! I will not be stepping foot into this location nor will I recommend my family to go here!! They didn\u2019t even give me an exact diagnosis, immediately walked into the room and said well idk what that is, sorry I can\u2019t give you an answer, told me I would have to figure it out.",
+                    "time": 1627782277,
+                    "translated": false
+                },
+                {
+                    "author_name": "Diana Ross",
+                    "author_url": "https://www.google.com/maps/contrib/115512817728737155110/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU00bKyi8MXHvHHqR_7buLnpqaQRoW-rAOlQTCSJmID3Q=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "a year ago",
+                    "text": "This hospital here in Nowata is a blessing. My husband was taken good care of all the nurses, doctors, and techs. Proud of our little facility.",
+                    "time": 1647450091,
+                    "translated": false
+                },
+                {
+                    "author_name": "Quinton Ballard",
+                    "author_url": "https://www.google.com/maps/contrib/105034713396768238081/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE2C_0jf-SBobu5jcdsl91EvIW751-PW-4vQPd0HN6=s128-c0x00000000-cc-rp-mo",
+                    "rating": 4,
+                    "relative_time_description": "a year ago",
+                    "text": "I wanna thank the nurse Cody and the doc for helping with my toothpain\nMis. Cody was beyond nice.",
+                    "time": 1641821511,
+                    "translated": false
+                },
+                {
+                    "author_name": "Shawn Lang",
+                    "author_url": "https://www.google.com/maps/contrib/101600263408021061825/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU67y6A0X3EfrrQDAAw53JXDSMJe4UdZtQRaSAaAwBjPw=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "a year ago",
+                    "text": "Would not go there  there really unprofessional  I'd give 0 stars if I could there very disrespectful doctors.",
+                    "time": 1638678261,
+                    "translated": false
+                },
+                {
+                    "author_name": "Hannah Miller",
+                    "author_url": "https://www.google.com/maps/contrib/107806218584438464777/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_tz--tRJi_iPKD__lytkq40sHeF7z3ZWjL3hlwF_3=s128-c0x00000000-cc-rp-mo",
+                    "rating": 3,
+                    "relative_time_description": "a year ago",
+                    "text": "Feel like I learn more from my portal than what is actually relayed to me.",
+                    "time": 1648055713,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 36.6965872,
+                "lng": -95.6302376
+            }
+        },
+        {
+            "hospital_name": "Ascension St. John Jane Phillips",
+            "place_id": "ChIJh7ShVE0St4cRhir0Fcd5PoE",
+            "reviews": [
+                {
+                    "author_name": "Alexia Johnston",
+                    "author_url": "https://www.google.com/maps/contrib/113977221347452932719/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1CtMCdgrlWGExja_PW9UmDGC0TzCmh83aUHN4IEPJj7E2=s128-c0x00000000-cc-rp-mo-ba3",
+                    "rating": 5,
+                    "relative_time_description": "a week ago",
+                    "text": "We delivered our baby boy here with Dr. Davis and felt so informed and cared for the entire time. Our nurses, Hayley, Melody, Lori and others were the kindest women ever. We felt encouraged as new partners, our baby was in safe hands. Definitely recommend this hospital and it's staff.",
+                    "time": 1698106279,
+                    "translated": false
+                },
+                {
+                    "author_name": "Marni1980",
+                    "author_url": "https://www.google.com/maps/contrib/112522337997886452888/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIen40qYZxvI8TE4tCqEJ5RaahfPnG5lgovTRSCzQ=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "in the last week",
+                    "text": "Where should I start? Rude and lazy nurses, confused cardiologists, lack of care or communication, or Teresa that goes around pushing for DNR and hospice? My mother has been here twice due to heart failure and liver failure. First time she was placed on the cardiac floor 10 and while on meds Teresa came into her room and had my mother sign a DNR form. Teresa also came and spoke to me about the form and through the entire conversation my mom was unconscious due to her meds she was on and was trying to push me to have my mother put into hospice care. I had told her I was not ready for that yet and I wanted to see how my mom progressed. My mother was released to a rehabilitation facility for three days then ended right back at the hospital due to her meds not being given to her correctly. Then my mother was out in the CCU unit where she was kept on a dopamine drip for days. One day the Drs say she has three months at most, next day she has a year, next day from Teresa she says my mother is gonna die any day. Finally after the constant lack of communication and miscommunication from this hospital I had to tell the Drs to get their stuff straightened out and figure out what they're going to do because if they're too incompetent here then I wanted my mom transferred to Tulsa. So then it's she's getting a pacemaker so I take another day off from work to be with her, then I come in only to find out no pacemaker! The back and forth from the Drs here is enough to drive anyone crazy! Having that Teresa lady constantly harassing us for hospice care and for harassment of us deciding to reverse my mother's DNR is shocking and disgusting!! I also wrote my name and phone number on my mother's white board in every room she was in for daily phone calls and communication from the Drs or nurses, not one time did anyone bother to call me!! Only good employee we encountered is  Tamela, she is always so nice and beyond helpful. That Teresa lady should be fired!!! Cardiologist here are extremely unprofessional and beyond dumb!!!",
+                    "time": 1698631498,
+                    "translated": false
+                },
+                {
+                    "author_name": "Heather Tessmann",
+                    "author_url": "https://www.google.com/maps/contrib/111966772984069504051/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjMLzA6Dy877lOH3HVB40tz75W3cz_uaUJKYmebs2L=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "a week ago",
+                    "text": "The registration process is an absolute joke. I have never felt so pushed aside in my life. Out of the four workers we had interaction with trying to get my husband to cath lab, none of them could have cared less. They barely made any eye contact, none of them made any attempt to actually register him, and then we were asked to complete his registration ourselves on his phone. Then why are you even here? You were absolutely useless to me.",
+                    "time": 1698241941,
+                    "translated": false
+                },
+                {
+                    "author_name": "Susan Willis",
+                    "author_url": "https://www.google.com/maps/contrib/112371981487416795650/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJviAXnPREoWsr7AFL91yxCIs8nfQD0AQDL4RiUaRiU=s128-c0x00000000-cc-rp-mo",
+                    "rating": 3,
+                    "relative_time_description": "a month ago",
+                    "text": "ER staff and PA/Doctors are friendly and great. But the waiting time to be seen is ridiculous!  Two hours in the waiting room then once you go back to a room in ER it\u2019s at least another 2 hours waiting for any testing to be completed. We have been here twice in the past 45 days for two different situations. Once the initial evaluation and routine monitors/ blood work has been done, no one comes back the room to give any updates or at least let you know you haven\u2019t been forgotten. I realize it\u2019s probably understaffed for the amount of people that routinely come in and it\u2019s not the staff\u2019s fault as they all are busy seeing other patients. It seems to us that it would be a nice touch for someone to take less than a minute to say \u201cWe haven\u2019t forgotten about you we are just really busy, are you doing ok?\u201d  Just our thoughts.",
+                    "time": 1693802506,
+                    "translated": false
+                },
+                {
+                    "author_name": "Micah leisure",
+                    "author_url": "https://www.google.com/maps/contrib/112310242351870723382/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaFxRKcchq9LrU3sls_dgy4GzXieMsFrN--b5gqnd4=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "a month ago",
+                    "text": "I don't have an issue with the hospital as such but their ENT office is terrible!  My PCP has faxed over a referral 3 times to their office and no one has called me.  I call every week, am put on hold, they take down my information and tell me they will \"call me right back\" and never do.  I have put messages on the portal for them, even included my MRI results and no response.  The referral was due to the results of an MRI I had at the beginning of August that revealed an issue that needs attention and could become very serious if not attended to.   I am extremely frustrated as I need to get in to see them as soon as possible.  Am at a loss as to what to do except keep calling every week. Someone needs to look into their management in that office since they are part of Ascension!",
+                    "time": 1694804651,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 36.7519398,
+                "lng": -95.9392139
+            }
+        },
+        {
+            "hospital_name": "Labette Health Independence Healthcare Center",
+            "place_id": "ChIJUerlRLrUuYcRWzj_P1NQuJ4",
+            "reviews": [
+                {
+                    "author_name": "Haley Lew",
+                    "author_url": "https://www.google.com/maps/contrib/102118171837109760666/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgS8PKzLaULt0r8dOudziS6lSCIsOHl3S0rzUSfRuwpg=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "in the last week",
+                    "text": "Worst experience I have ever had at an ER. I got injured at work and was rushed to the Labette Health ER for a possible concussion. I could barely walk or see when I was brought in. From the very beginning I felt like a complete inconvenience their staff. Barely conscious I had to fill out paperwork before I could even be seen by anyway. I can\u2019t recall how long I waited but I remember sitting there in so much pain throwing up into a trash can. Note: There was no one in the lobby. During the entire visit I had to suffer with rude and inconsiderate nurses who treated me like I was completely fine. There were so many incidents of neglect and impatience. I don\u2019t feel comfortable going into complete detail about everything, but one of the most notable parts was when I had used my call button to ask what was happening or if I had any friends or family there. I was so scared and confused. The nurse responded with \u201cI don\u2019t know I don\u2019t check the cameras.\u201d They took my call button away and left for me with nothing for so long (I didn\u2019t have my cell phone or anything on me) After being told I was discharged after an hour of not seeing anyone they gave me papers and didn\u2019t even walk me out or show me to the  lobby or exit. My loved ones watched me stumble into the lobby barely being able to see with no help or assistance from anyone. No one informed them of my state, or condition the entire time. Overall it was a terrible experience where I felt neglected, unheard, and disrespected in my most vulnerable state.",
+                    "time": 1698694260,
+                    "translated": false
+                },
+                {
+                    "author_name": "Taina Copeland",
+                    "author_url": "https://www.google.com/maps/contrib/103238865656712014787/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsslaYiJqPRm13v3eAgcdUhcwaTLAJlCfpztvGIHVCA6X5=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "3 weeks ago",
+                    "text": "I took my adult, high risk pregnant daughter to the ER in Independence last night and was shocked at how rude everyone we came in contact was. It was like we were a pain in the rear and disturbing their time. From now on we will go to Coffeyville. It\u2019s too bad that Independence really needs this ER. Im very disappointed as this isn\u2019t the first time this has happened to us. The clinic staff is wonderful but the ER staff leaves a lot to be desired.",
+                    "time": 1696525732,
+                    "translated": false
+                },
+                {
+                    "author_name": "What Name",
+                    "author_url": "https://www.google.com/maps/contrib/109543155082007550672/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlZhb2_cmJFagCY0w4rpm5vYPH2WprfT4j4iktdDwjvUM=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "a month ago",
+                    "text": "The secretaries and nurses are ALWAYS rude and I have no idea how those doctors even have a job! The first time I came in was to have a bacterial infection checked out and they took one look at me and accused me of having chlamydia!!! When I said I wasn't active, they said they didn't know what it could be and sent me out. About half a year later, I came in with a laceration on my thumb from a gardening accident, and after waiting in the ER for 2 hours (there were no other patients btw), they superglued my thumb shut without antibiotics or sterilization, leading to it becoming infected a week later and I had to re-set it myself anyway and they charged me $2,000!!! FOR SUPERGLUE!!!",
+                    "time": 1694648567,
+                    "translated": false
+                },
+                {
+                    "author_name": "Lindsey Garcia",
+                    "author_url": "https://www.google.com/maps/contrib/105609974477923746381/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0bpisYzULeVQYio9yipPmhy4k-KxJ1vrOkSTJlLrE=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "2 weeks ago",
+                    "text": "I will never go to this place again. I went in with what felt like a broken toe. The pain is pretty bad when I try to walk. I tried OTC meds and nothing helped it so I, uninsured, went here only to be treated like I had a paper cut. Was told \u201cI\u2019ll be fine\u201d. \u201cIt\u2019s not that bad\u201d. I can\u2019t put any weight on it. It\u2019s swollen but they said it\u2019s not broken. And? So it has to be actually broken for me to receive DECENT CARE????? I\u2019m sick of these ARNP\u2019s thinking they know everything. I will be filing a formal complaint with the proper agencies. This is the 4th time I went there only to be treated this way. I will not be paying that bill either. I\u2019ll tell them what they told me when I needed something done. They\u2019ll be fine without my payment. My non-payment won\u2019t be that bad. Ben Smith is a joke. I remember back when MD\u2019s existed. They wouldn\u2019t have let me leave with them buddy wrapping it THEMSELVES or something. They\u2019ve lost a lot of business due to similar behavior with other patients. 8 out of 10 people you ask about this place will have nothing but bad things to say. That\u2019s why we all go to either coffeyville or neodesha. Pretty bad we have to drive 20+ miles to be treated properly. I hope enough of us complain and they\u2019ll finally shut this joke of a place down. I cannot wait to receive this bill. They\u2019ll be getting a nice little letter back from me. If I could give negative stars I would. Sorry for the novel of a review but this is ridiculous how they treat us and it\u2019s a real problem in this town",
+                    "time": 1697090861,
+                    "translated": false
+                },
+                {
+                    "author_name": "Ash Barr",
+                    "author_url": "https://www.google.com/maps/contrib/108259497514305672962/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6oMIAnf5oEpYJfBMih9tell9OLDVW1oWHhMllLL8=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "5 months ago",
+                    "text": "DOC, and Nurse were RUDE, as well as treated myself and my daughter as if my daughters stomach pain was non of there concern.. If there was another facility in the area I would NEVER come back...\nREPLACE THESE RUDE, COLD,INCONSIDERATE HEALTHCARE TEAM.",
+                    "time": 1685492216,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 37.2279536,
+                "lng": -95.7415031
+            }
+        },
+        {
+            "hospital_name": "Coffeyville Regional Medical Center Neursgy",
+            "place_id": "ChIJc-9nh3uEt4cRMVD8YdkIhys",
+            "reviews": [],
+            "location": {
+                "lat": 37.0407466,
+                "lng": -95.63928109999999
+            }
+        },
+        {
+            "hospital_name": "Parsons State Hospital and Training Center",
+            "place_id": "ChIJDaiIHHkauIcRo8LjW0Ffz0Q",
+            "reviews": [
+                {
+                    "author_name": "jenny Myers",
+                    "author_url": "https://www.google.com/maps/contrib/116177537121952508108/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDhCyTM4Tvi6w4Bk5dKBMBNeO55NVRCjVr-K_IS0NR=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "4 months ago",
+                    "text": "I spent at least 7 years here starred on cottage's PINE OAK & CEDAR Enjoyed it!!!",
+                    "time": 1685956688,
+                    "translated": false
+                },
+                {
+                    "author_name": "Ryan Hayes",
+                    "author_url": "https://www.google.com/maps/contrib/111117784498367046589/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBoDq6iv-QcdUEIjRFVRlX1fHdAqXdaNvk2mTfuGJczg=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "2 years ago",
+                    "text": "Not actually a hospital... Shouldn't be marked as such.",
+                    "time": 1607485650,
+                    "translated": false
+                },
+                {
+                    "author_name": "John Bode",
+                    "author_url": "https://www.google.com/maps/contrib/103627690916464370559/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILeoCrsAVUJaPndNnO9XV1B3sHz3mT_RpN4Q-t4EH0=s128-c0x00000000-cc-rp-mo-ba4",
+                    "rating": 5,
+                    "relative_time_description": "5 years ago",
+                    "text": "This is NOT a public hospital!",
+                    "time": 1524888820,
+                    "translated": false
+                },
+                {
+                    "author_name": "Sherri Anderson",
+                    "author_url": "https://www.google.com/maps/contrib/109668332557224229053/reviews",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIy0zNxgib7oO8s7w4pe_GrcHao027Wd_XfHeBOnilq=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "9 years ago",
+                    "text": "",
+                    "time": 1406325595,
+                    "translated": false
+                },
+                {
+                    "author_name": "DeLaina Taylor",
+                    "author_url": "https://www.google.com/maps/contrib/115165971037905897033/reviews",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL46oZILvoVCylSxvfu7RP6JwDRfCvLZcILTd7Cq7Jl=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "6 months ago",
+                    "text": "",
+                    "time": 1681316196,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 37.3510668,
+                "lng": -95.2799922
+            }
+        },
+        {
+            "hospital_name": "Mercy Regional EMS Vinita Station",
+            "place_id": "ChIJ525ij47Rt4cRyNPxM88dnUg",
+            "reviews": [
+                {
+                    "author_name": "Edna brookfield",
+                    "author_url": "https://www.google.com/maps/contrib/110305295012819449081/reviews",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_0Zc64Cmakg9LO65--QUnvYeXckqsHA7e63BJy91q=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "a year ago",
+                    "text": "",
+                    "time": 1662649741,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 36.6424235,
+                "lng": -95.1519016
+            }
+        },
+        {
+            "hospital_name": "Community Health Center of Southeast Kansas",
+            "place_id": "ChIJ-7P8U4jVuYcR8PiPrEL2f9k",
+            "reviews": [
+                {
+                    "author_name": "Janissa Fredrick",
+                    "author_url": "https://www.google.com/maps/contrib/101641655345276478833/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6sS9Qksm_hYkHiBmMnUpcT0QooYh9ny9T0KWKWrsC0w=s128-c0x00000000-cc-rp-mo-ba4",
+                    "rating": 3,
+                    "relative_time_description": "3 weeks ago",
+                    "text": "Virginia King doesn't have any bed side matter, very hateful",
+                    "time": 1696538072,
+                    "translated": false
+                },
+                {
+                    "author_name": "Tina Swanson (Tina baby)",
+                    "author_url": "https://www.google.com/maps/contrib/112837140021997248539/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYm9xEPxd_P5Iqro1TEeUk46pppqUEva3z9yH7LlCKdng=s128-c0x00000000-cc-rp-mo",
+                    "rating": 4,
+                    "relative_time_description": "9 months ago",
+                    "text": "Therapist in med doctors need to communicate with the receptionist better",
+                    "time": 1674581493,
+                    "translated": false
+                },
+                {
+                    "author_name": "Brandi Martin",
+                    "author_url": "https://www.google.com/maps/contrib/115219655803743469562/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXayhnUkofxT0P4f2UEdzAWukieJPL-3RRhmuBS-D1xog5I=s128-c0x00000000-cc-rp-mo-ba4",
+                    "rating": 5,
+                    "relative_time_description": "2 years ago",
+                    "text": "Love this place very friendly!!!",
+                    "time": 1619721297,
+                    "translated": false
+                },
+                {
+                    "author_name": "Talon Underwood",
+                    "author_url": "https://www.google.com/maps/contrib/115436615661811890428/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3VNQ9YkIvvmSxhCcjYUxK7Nkb2vJhCNppsJIENSXSWNs=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "a year ago",
+                    "text": "great food",
+                    "time": 1648120320,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 37.2251328,
+                "lng": -95.7557314
+            }
+        },
+        {
+            "hospital_name": "Utica Park Clinic - Bartlesville",
+            "place_id": "ChIJUbzmy-gRt4cRjYBs3pNohXM",
+            "reviews": [],
+            "location": {
+                "lat": 36.7142521,
+                "lng": -95.93579419999999
+            }
+        },
+        {
+            "hospital_name": "Access Medical Centers - Urgent Care",
+            "place_id": "ChIJPZAXyIYRt4cRMsPwqd2lQ1g",
+            "reviews": [
+                {
+                    "author_name": "Janice Cox",
+                    "author_url": "https://www.google.com/maps/contrib/107810787859418864378/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnIuE8Tdq6YQQbtp64NMibQhC_KzysR-2LD2eJvHQ=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "a week ago",
+                    "text": "In one hour I was in and out.\nEvery one was kind and pleasant.\nVery pleased with the PA and left feeling good that my fears were unfounded.\nBefore I could get home my prescription was waiting for me at my pharmacy.\nI made my appointment on my iPhone and did not have to wait very long when I got there.",
+                    "time": 1698256821,
+                    "translated": false
+                },
+                {
+                    "author_name": "Michele Wright",
+                    "author_url": "https://www.google.com/maps/contrib/102204265514364801414/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8WNwltuOhHridPaqaRA-_htiCHwqlCn7AkdLPB_uN=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "a week ago",
+                    "text": "My son was on a hunting trip in Bartlesville Oklahoma.  He has a rare illness that causes flares periodically when he has strep or is exposed to strep.  A lady doctor saw him and was very kind, thoughtful and patient with our son and his doctor that was relaying messages for treatment protocol.  We all could not have been more pleased with her skills and efforts to help on.",
+                    "time": 1698093169,
+                    "translated": false
+                },
+                {
+                    "author_name": "Sherry Vaughan",
+                    "author_url": "https://www.google.com/maps/contrib/102700280434778634354/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjCEFlpjSRCbALEcZ-CcBmQP40lEOccFA3h5WQFO5B=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "3 months ago",
+                    "text": "Zac & nurse (didn\u2019t get her name) were most helpful for a school sports physical for my daughter; both friendly & very thorough. Front staff very kind as well.  A great experience at Access! Relatively quick in & out also.  Highly recommend.",
+                    "time": 1689786235,
+                    "translated": false
+                },
+                {
+                    "author_name": "Linda Ransbottom",
+                    "author_url": "https://www.google.com/maps/contrib/104432678402569963607/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJx_Rl8kQNCuDlc44i9Dq60jbNJ1TVZLL_KO9_qTCrc=s128-c0x00000000-cc-rp-mo",
+                    "rating": 5,
+                    "relative_time_description": "a month ago",
+                    "text": "I cut my leg and of course I didn't know where to go.  I was overwhelmed at the excellent care I got.  Everyone was so kind and I mean EVERYONE.  The experience was exceptional and I would recommend them without hesitation.",
+                    "time": 1693868550,
+                    "translated": false
+                },
+                {
+                    "author_name": "Rebecka Harris",
+                    "author_url": "https://www.google.com/maps/contrib/116338140785228634188/reviews",
+                    "language": "en",
+                    "original_language": "en",
+                    "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA4f266i22VNvIg1dx3XXbXe9NYaRSm9vxsC3ocq0myk4t=s128-c0x00000000-cc-rp-mo",
+                    "rating": 1,
+                    "relative_time_description": "4 months ago",
+                    "text": "The wait time is ridiculous.  Walked in when it opened for some simple blood work. Over an hour wait. They took somebody back who was 20 minutes late for their appointment instead of seeing the next patients who were already there\nEDIT: the staff is incompetent.  I made an appointment OVER a WEEK ago all for pre employment for the second time. They did NOT communicate with the employment agency . I still waited an hour to get back even though I had an appointment.  I will be sure to tell my recruiter to NOT send any employees there. It was completely awful experience 2 times in a row.",
+                    "time": 1688426828,
+                    "translated": false
+                }
+            ],
+            "location": {
+                "lat": 36.716095,
+                "lng": -95.934563
+            }
+        }
+    ]
+}
