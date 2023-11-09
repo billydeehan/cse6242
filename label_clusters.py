@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 import openai
 import json
 from collections import defaultdict
@@ -19,20 +18,6 @@ from langchain.prompts.chat import (
 openai.api_key = ''
 input_datapath = 'data/all_reviews_with_embeddings.json'
 
-
-with open(input_datapath,'r') as json_file:
-    data = json.load(json_file)
-
-cluster_reviews = defaultdict(list)
-
-for hospital in data['hospitals']:
-    for review in hospital['reviews']:
-        review_txt = review['text']
-        cluster_id = review.get('cluster_id', 0)
-        cluster_reviews[cluster_id].append(review_txt)
-
-
-
 def call_openai_api(messages):
     return openai.ChatCompletion.create(
         model='gpt-3.5-turbo-16k',
@@ -40,7 +25,6 @@ def call_openai_api(messages):
         max_tokens=4096,
         temperature=1
     )
-
 
 def summarize_text(transcript):
     system_prompt = "I would like for you to assume the role of a Life Coach"
@@ -69,19 +53,23 @@ def get_prompt():
         input_variables=["reviews"],
     )
 
-for c in df1.Cluster.unique():
+
+with open(input_datapath,'r') as json_file:
+    data = json.load(json_file)
+
+cluster_reviews = defaultdict(list)
+
+for hospital in data['hospitals']:
+    for review in hospital['reviews']:
+        review_txt = review['text']
+        cluster_id = review.get('cluster_id', 0)
+        cluster_reviews[cluster_id].append(review_txt)
+
+
+for cluster_id, reviews in cluster_reviews.items():
     chain = LLMChain(
         llm=ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k"), prompt=get_prompt(), verbose=False
     )
-    review_str = "\n".join(
-        [
-            f"{review['summary_openai']}\n"
-            for review in df1.query(f"Cluster == {c}").to_dict(orient="records")
-        ]
-    )
-    result = chain.run(
-        {
-            "reviews": review_str,
-        }
-    )
-    df1.loc[df1.Cluster == c, "review_topic"] = result
+    review_str = '\n'.join(reviews)
+    result = chain.run({"reviews": review_str})
+    print(result)
