@@ -1,0 +1,93 @@
+{
+    "hospital_name": "Coffeyville Regional Medical Center Neursgy",
+    "place_id": "ChIJc-9nh3uEt4cRMVD8YdkIhys",
+    "reviews": [
+        {
+            "query": "ChIJc-9nh3uEt4cRMVD8YdkIhys",
+            "name": "Coffeyville Regional Medical Center Neursgy",
+            "place_id": "ChIJc-9nh3uEt4cRMVD8YdkIhys",
+            "google_id": "0x87b7847b8767ef73:0x2b8708d961fc5031",
+            "full_address": "1400 W 4th St, Coffeyville, KS 67337",
+            "borough": null,
+            "street": "1400 W 4th St",
+            "postal_code": "67337",
+            "area_service": false,
+            "country_code": "US",
+            "country": "United States of America",
+            "city": "Coffeyville",
+            "us_state": "Kansas",
+            "state": "Kansas",
+            "plus_code": "869629R6+77",
+            "latitude": 37.0407466,
+            "longitude": -95.63928109999999,
+            "time_zone": "America/Chicago",
+            "popular_times": null,
+            "site": "http://crmcinc.org/",
+            "phone": "+1 620-251-1200",
+            "type": "Medical Center",
+            "logo": null,
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "Medical Center",
+            "subtypes": "Medical Center",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": null,
+            "reviews": null,
+            "reviews_data": [],
+            "photos_count": 1,
+            "cid": "3136485395231690801",
+            "reviews_link": null,
+            "reviews_id": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xaaSMDtVDgFn40jPAfbYdg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=102.81526&pitch=0&thumbfov=100",
+            "street_view": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xaaSMDtVDgFn40jPAfbYdg&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=102.81526&pitch=0&thumbfov=100",
+            "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+            "working_hours": {
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Accessibility": {
+                    "Wheelchair accessible entrance": true,
+                    "Wheelchair accessible parking lot": true,
+                    "Wheelchair accessible restroom": true
+                },
+                "Amenities": {
+                    "Restroom": true
+                },
+                "Planning": {
+                    "Appointments recommended": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": null,
+            "reviews_per_score_1": null,
+            "reviews_per_score_2": null,
+            "reviews_per_score_3": null,
+            "reviews_per_score_4": null,
+            "reviews_per_score_5": null,
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": null,
+            "verified": false,
+            "owner_title": "Coffeyville Regional Medical Center Neursgy",
+            "owner_link": null,
+            "location_link": "https://www.google.com/maps/place/Coffeyville+Regional+Medical+Center+Neursgy/@37.0407466,-95.63928109999999,14z/data=!4m8!1m2!2m1!1sCoffeyville+Regional+Medical+Center+Neursgy!3m4!1s0x87b7847b8767ef73:0x2b8708d961fc5031!8m2!3d37.0407466!4d-95.63928109999999"
+        }
+    ],
+    "location": {
+        "lat": 37.0407466,
+        "lng": -95.63928109999999
+    }
+}

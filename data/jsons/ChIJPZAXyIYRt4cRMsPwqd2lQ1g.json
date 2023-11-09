@@ -1,0 +1,1428 @@
+{
+    "hospital_name": "Access Medical Centers - Urgent Care",
+    "place_id": "ChIJPZAXyIYRt4cRMsPwqd2lQ1g",
+    "reviews": [
+        {
+            "query": "ChIJPZAXyIYRt4cRMsPwqd2lQ1g",
+            "name": "Access Medical Centers - Urgent Care",
+            "place_id": "ChIJPZAXyIYRt4cRMsPwqd2lQ1g",
+            "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+            "full_address": "2334 SE Washington Blvd, Bartlesville, OK 74006",
+            "borough": null,
+            "street": "2334 SE Washington Blvd",
+            "postal_code": "74006",
+            "area_service": false,
+            "country_code": "US",
+            "country": "United States of America",
+            "city": "Bartlesville",
+            "us_state": "Oklahoma",
+            "state": "Oklahoma",
+            "plus_code": "8686P388+C5",
+            "latitude": 36.716094999999996,
+            "longitude": -95.934563,
+            "time_zone": "America/Chicago",
+            "popular_times": [
+                {
+                    "day": 7,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 33,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 50,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 44,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 50,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 1,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 33,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 55,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 44,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 22,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 33,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 55,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 66,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 33,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 33,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 22,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 44,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 72,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 100,
+                            "title": "Usually as busy as it gets",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 94,
+                            "title": "Usually as busy as it gets",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 5,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 22,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 11,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 22,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 50,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 55,
+                            "title": "Usually a little busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": 6,
+                    "popular_times": [
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 44,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 22,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "9p"
+                        }
+                    ]
+                },
+                {
+                    "day": "live",
+                    "percentage": 3,
+                    "title": "Now: Usually not too busy",
+                    "time": 16
+                }
+            ],
+            "site": "https://nextcare.com/locations/ok/bartlesville/%3Futm_source%3DGoogleMaps%26utm_medium%3DLocal%26utm_campaign%3Dbartlesville",
+            "phone": "+1 918-331-9184",
+            "type": "Urgent care center",
+            "logo": "https://lh3.googleusercontent.com/-EKE6NlpzgZc/AAAAAAAAAAI/AAAAAAAAAAA/yecLHPdrsvk/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "Urgent care center",
+            "subtypes": "Urgent care center, Doctor, Emergency care service, Medical Center, Medical clinic, Physical examination center, STD testing service, Walk-in clinic, X-ray lab",
+            "posts": [
+                {
+                    "body": "It\u2019s National Radiologic Tech Week! Fun Fact: On this day in 1895, the x-ray was discovered!\n",
+                    "timestamp": 1699459861,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgIDFhcamdg&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipOkAzACdhGTr5pcsn66JVhbcbxTS-ebKhYlf4G8=h400-no"
+                },
+                {
+                    "body": "Avoiding Acid Reflux is more than cutting out spicy foods. Check out our blog to learn more about Acid Reflux and GERD.\u00a0\n",
+                    "timestamp": 1699373489,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgIDFgZj1kwE&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipPUcq6y-X6AqnftyQ6RlFBoMzNIOyLXseouxQKi=h400-no"
+                },
+                {
+                    "body": "Sinuses feeling a bit stuffy? Let us take a look! You can find your nearest location on our website!\u00a0\n",
+                    "timestamp": 1699286761,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgIDFxrzhNA&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipMLA4LBwjwy-6YqKCwQn1LxBI8dl94iz3RfvJor=h400-no"
+                },
+                {
+                    "body": "Migraines are more than just a headache - thankfully, we can help with both! Check out our website to find a location near you!\u00a0\n",
+                    "timestamp": 1699113793,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgIDFmKK59QE&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipPFBsV1Bilf19_r5NdndCfwo_iYi1QhmMC1Oj51=h400-no"
+                },
+                {
+                    "body": "NextCare is here to help even when you can\u2019t make it into the clinic. See our website for more info on our Virtual Care.\u00a0\n",
+                    "timestamp": 1698940745,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgICFq6uEBA&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipOGeHTazKW6zbKLi7vX2SxchXxiZOjOHZNtU5ar=h400-no"
+                },
+                {
+                    "body": "Read our blog to better understand when to seek medical care for fevers and body aches.\u00a0\n",
+                    "timestamp": 1698855213,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgICFk_yIPg&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipO4fe0Jq16DPln82ZDtpwQX2XLEbOD0KN3kgUDY=h400-no"
+                },
+                {
+                    "body": "Have a spook-tacular Halloween! If you find you need a visit to NextCare, our clinics are operating as usual!\n",
+                    "timestamp": 1698768115,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgICF3dXgRA&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipPs01CoQdX0GFgBYtO-l7TA5m0LBowLPAzf5NxL=h400-no"
+                },
+                {
+                    "body": "Tempted to look your symptoms on the internet? Visit our blog to learn why it may not be a good idea.\n\u00a0",
+                    "timestamp": 1698595212,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgICF-e205wE&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipMMRHNKZk2ayM7gvvAkT5rTvAlLilZJyRFe5wLx=h400-no"
+                },
+                {
+                    "body": "When you\u2019re feeling ill,\u00a0NextCare is here for you. Click the link to see what we can help you when you aren\u2019t feeling your best!\n",
+                    "timestamp": 1698509444,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgICFka67tAE&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipOHBtKGWxw3T9vHscoe6_ZeQ_8-PvlrEyzTkG_d=h400-no"
+                },
+                {
+                    "body": "It\u2019s possible to be safe AND have fun on Halloween?! Check out our blog to see for yourself!\u00a0\n",
+                    "timestamp": 1698336630,
+                    "link": "https://search.google.com/local/posts?q=Access+Medical+Centers+-+Urgent+Care&ludocid=6360109470234755890&lpsid=CIHM0ogKEICAgID56fG4Bg&source=sh/x/localposts&lsig=AB86z5Uv8Atz2EvkApqLXgBWquAm",
+                    "image": "https://lh3.googleusercontent.com/geougc/AF1QipMZa4BHaUVXkwFVj4pyl820bEezjUdmtyuFuk2P=h400-no"
+                }
+            ],
+            "reviews_tags": [
+                "price",
+                "job",
+                "app",
+                "communicate",
+                "girl",
+                "cough",
+                "quick service",
+                "sore throat",
+                "check",
+                "FNP"
+            ],
+            "rating": 4.7,
+            "reviews": 938,
+            "reviews_data": [
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1a2FhZDlBRRAB",
+                    "review_pagination_id": "CAESBkVnSUlBUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/107810787859418864378?hl=en-US",
+                    "author_title": "Janice Cox",
+                    "author_id": "107810787859418864378",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocJnIuE8Tdq6YQQbtp64NMibQhC_KzysR-2LD2eJvHQ=s120-c-rp-mo-br100",
+                    "review_text": "In one hour I was in and out.\nEvery one was kind and pleasant.\nVery pleased with the PA and left feeling good that my fears were unfounded.\nBefore I could get home my prescription was waiting for me at my pharmacy.\nI made my appointment on my iPhone and did not have to wait very long when I got there.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Janice, \nWe are glad that you had a positive experience! Thank you for taking the time to leave a review.",
+                    "owner_answer_timestamp": 1698333359,
+                    "owner_answer_timestamp_datetime_utc": "10/26/2023 15:15:59",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ1a2FhZDlBRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgID5kaad9AE%7CCgwIta_lqQYQiMbJ-gE%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1698256821,
+                    "review_datetime_utc": "10/25/2023 18:00:21",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1eHFLa1Z3EAE",
+                    "review_pagination_id": "CAESBkVnSUlBZw==",
+                    "author_link": "https://www.google.com/maps/contrib/102204265514364801414?hl=en-US",
+                    "author_title": "Michele Wright",
+                    "author_id": "102204265514364801414",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocL8WNwltuOhHridPaqaRA-_htiCHwqlCn7AkdLPB_uN=s120-c-rp-mo-br100",
+                    "review_text": "My son was on a hunting trip in Bartlesville Oklahoma.  He has a rare illness that causes flares periodically when he has strep or is exposed to strep.  A lady doctor saw him and was very kind, thoughtful and patient with our son and his doctor that was relaying messages for treatment protocol.  We all could not have been more pleased with her skills and efforts to help on.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Michele, \nWe are glad that you had a positive experience! Thank you for taking the time to leave a review.",
+                    "owner_answer_timestamp": 1698157748,
+                    "owner_answer_timestamp_datetime_utc": "10/24/2023 14:29:08",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ1eHFLa1Z3EAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgID5xqKkVw%7CCgwI8bDbqQYQgPzlkAI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1698093169,
+                    "review_datetime_utc": "10/23/2023 20:32:49",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChRDSUhNMG9nS0VJQ0FnSURKcVoxMxAB",
+                    "review_pagination_id": "CAESBkVnSUlBdw==",
+                    "author_link": "https://www.google.com/maps/contrib/102700280434778634354?hl=en-US",
+                    "author_title": "Sherry Vaughan",
+                    "author_id": "102700280434778634354",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocKjCEFlpjSRCbALEcZ-CcBmQP40lEOccFA3h5WQFO5B=s120-c-rp-mo-br100",
+                    "review_text": "Zac & nurse (didn\u2019t get her name) were most helpful for a school sports physical for my daughter; both friendly & very thorough. Front staff very kind as well.  A great experience at Access! Relatively quick in & out also.  Highly recommend.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Sherry Vaughan,\n\nThank you for taking the time to rate and review your visit with us. We appreciate you choosing NextCare!",
+                    "owner_answer_timestamp": 1690217534,
+                    "owner_answer_timestamp_datetime_utc": "07/24/2023 16:52:14",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSURKcVoxMxAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIDJqZ13%7CCgwI-67gpQYQuNyqjgI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1689786235,
+                    "review_datetime_utc": "07/19/2023 17:03:55",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabE9YdU5nEAE",
+                    "review_pagination_id": "CAESBkVnSUlCQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/104432678402569963607?hl=en-US",
+                    "author_title": "Linda Ransbottom",
+                    "author_id": "104432678402569963607",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocJx_Rl8kQNCuDlc44i9Dq60jbNJ1TVZLL_KO9_qTCrc=s120-c-rp-mo-br100",
+                    "review_text": "I cut my leg and of course I didn't know where to go.  I was overwhelmed at the excellent care I got.  Everyone was so kind and I mean EVERYONE.  The experience was exceptional and I would recommend them without hesitation.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Linda, \nWe are glad that you had a positive experience! Thank you for taking the time to leave a review.",
+                    "owner_answer_timestamp": 1693933450,
+                    "owner_answer_timestamp_datetime_utc": "09/05/2023 17:04:10",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNabE9YdU5nEAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgICZlOXuNg%7CCgwIhsTZpwYQyITayAI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1693868550,
+                    "review_datetime_utc": "09/04/2023 23:02:30",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKd3JMdTlnRRAB",
+                    "review_pagination_id": "CAESBkVnSUlCUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/116338140785228634188?hl=en-US",
+                    "author_title": "Rebecka Harris",
+                    "author_id": "116338140785228634188",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjUA4f266i22VNvIg1dx3XXbXe9NYaRSm9vxsC3ocq0myk4t=s120-c-rp-mo-br100",
+                    "review_text": "The wait time is ridiculous.  Walked in when it opened for some simple blood work. Over an hour wait. They took somebody back who was 20 minutes late for their appointment instead of seeing the next patients who were already there\nEDIT: the staff is incompetent.  I made an appointment OVER a WEEK ago all for pre employment for the second time. They did NOT communicate with the employment agency . I still waited an hour to get back even though I had an appointment.  I will be sure to tell my recruiter to NOT send any employees there. It was completely awful experience 2 times in a row.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Rebecka, \nWe are sorry to hear about your negative experience at our clinic. We strive to provide exceptional service to all patients, and we are disappointed you left unhappy. Please know that we value your feedback and will use it to better our services. If you would like to discuss this matter further feel free to contact our Patient Liaison at wecare@nextcare.com. We hope that you get well soon.",
+                    "owner_answer_timestamp": 1687530408,
+                    "owner_answer_timestamp_datetime_utc": "06/23/2023 14:26:48",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKd3JMdTlnRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgICJwrLu9gE%7CCgsIzLKNpQYQ-O_hPg%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1688426828,
+                    "review_datetime_utc": "07/03/2023 23:27:08",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1a2UtTld3EAE",
+                    "review_pagination_id": "CAESBkVnSUlCZw==",
+                    "author_link": "https://www.google.com/maps/contrib/100366638051144494303?hl=en-US",
+                    "author_title": "Bernadine Suarez (Nurse Dee)",
+                    "author_id": "100366638051144494303",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocIW-1W-4uP4Uf8jZga2NPiytN65JgkBVNUDsUieZCLG=s120-c-rp-mo-br100",
+                    "review_text": "My provider had the best bedside manner. She was at the same time honest, affirming, capable and reflective. I couldn't have asked for better care.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Bernadine, \nThank you for your review! We hope if you are ever in need of care again you will come back to visit one of our clinics in the future.",
+                    "owner_answer_timestamp": 1697472876,
+                    "owner_answer_timestamp_datetime_utc": "10/16/2023 16:14:36",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM1a2UtTld3EAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIC5ke-NWw%7CCgwI34WsqQYQ0IOB-AI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1697317599,
+                    "review_datetime_utc": "10/14/2023 21:06:39",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKbWN2MUlBEAE",
+                    "review_pagination_id": "CAESBkVnSUlCdw==",
+                    "author_link": "https://www.google.com/maps/contrib/116204531865522336719?hl=en-US",
+                    "author_title": "Crystal Granda",
+                    "author_id": "116204531865522336719",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocLacXZE0Zh3EAfYzmU1SGbFijuocsnLrsBcBlHt8ahN=s120-c-rp-mo-br100",
+                    "review_text": "Extremely friendly, helpful, knowledgeable staff. I liked that I could book an appointment time online. Hopefully I won't need urgent care again any time soon but if I do I'll definitely be coming here",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Crystal Granda,\n\nThank you for taking the time to rate and review your visit with us. We appreciate you choosing NextCare!",
+                    "owner_answer_timestamp": 1690217474,
+                    "owner_answer_timestamp_datetime_utc": "07/24/2023 16:51:14",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURKbWN2MUlBEAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIDJmcv1IA%7CCgwI0_bhpQYQuLbHzgI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1689811795,
+                    "review_datetime_utc": "07/20/2023 00:09:55",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURac29xeTJBRRAB",
+                    "review_pagination_id": "CAESBkVnSUlDQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/114238905645914196807?hl=en-US",
+                    "author_title": "Pick'a_Luelf",
+                    "author_id": "114238905645914196807",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjW6MLIJiowtzxJNoz_p7b2Rc_afEKKHor9k9GIjh8ig5g=s120-c-rp-mo-br100",
+                    "review_text": "Frustrated. I went through all the trouble of loading everything on the app, while setting in their parking lot, to book a 7:15pm appt\u2026just for the app to say, oh sorry, too late (this is at 7:10 mind you). We dart in the door at 7:10 and they say sorry, too late. There is only one person in line, which I saw on the app and in the waiting room. They close at 8PM!!! Guess not really. Grrr. I have a sick kid, so irritating!",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Pick'a_Luelf, \nWe are sorry to hear about your negative experience at our clinic. We strive to provide exceptional service to all patients, and we are disappointed you left unhappy. Please know that we value your feedback and will use it to better our services. If you would like to discuss this matter further feel free to contact our Patient Liaison at wecare@nextcare.com. We hope that you get well soon.",
+                    "owner_answer_timestamp": 1695912351,
+                    "owner_answer_timestamp_datetime_utc": "09/28/2023 14:45:51",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURac29xeTJBRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIDZsoqy2AE%7CCgwI5YzTqAYQuMG8jgE%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1695860325,
+                    "review_datetime_utc": "09/28/2023 00:18:45",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwa3BMZ1hnEAE",
+                    "review_pagination_id": "CAESBkVnSUlDUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/111904298229978066016?hl=en-US",
+                    "author_title": "Blythe Moseman",
+                    "author_id": "111904298229978066016",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjVjyZGPazVrXZuAJLriosCiSFG9fT1U-mYbVyr34sFcUprG=s120-c-rp-mo-ba4-br100",
+                    "review_text": "After being to the hospital urgent care, the difference was remarkable. I was listened to and cared for and actually correctly diagnosed because they spent longer than 3 minutes with me. They've got my loyalty!",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Blythe Moseman,\n\nThank you for taking the time to rate and review your visit with us. We appreciate you choosing NextCare!",
+                    "owner_answer_timestamp": 1692631850,
+                    "owner_answer_timestamp_datetime_utc": "08/21/2023 15:30:50",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURwa3BMZ1hnEAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIDpkpLgXg%7CCgwI7p-ApwYQuM_mswI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1692405742,
+                    "review_datetime_utc": "08/19/2023 00:42:22",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4b3EyQlFREAE",
+                    "review_pagination_id": "CAESBkVnSUlDZw==",
+                    "author_link": "https://www.google.com/maps/contrib/117588952247343425434?hl=en-US",
+                    "author_title": "Rosemary Carlson",
+                    "author_id": "117588952247343425434",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjXMei759Z9sB500yNBFYSI98vHklc0WKaPHczwIMi0eM-Q=s120-c-rp-mo-br100",
+                    "review_text": "I have had a few experiences with Access Medical- two virtual and one in-person. They offer the ability to set appointments and fill out the paperwork online in advance to minimize waiting to be seen. I have been seen by physicians and by a certified family nurse practitioner, and they all offered appropriate treatment options, did not rush through the appointments, were respectful and pleasant.  I appreciate the ability to be seen here when seeing  my primary care physician is not feasible.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Rosemary, \nWe are glad that you had a positive experience! Thank you for taking the time to leave a review.",
+                    "owner_answer_timestamp": 1684160782,
+                    "owner_answer_timestamp_datetime_utc": "05/15/2023 14:26:22",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN4b3EyQlFREAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgICxoq2BQQ%7CCgwI68j_ogYQqKuuxAE%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1684005995,
+                    "review_datetime_utc": "05/13/2023 19:26:35",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwdG8zdVhnEAE",
+                    "review_pagination_id": "CAESBkVnSUlDdw==",
+                    "author_link": "https://www.google.com/maps/contrib/106285064049574105838?hl=en-US",
+                    "author_title": "Brittany Peck",
+                    "author_id": "106285064049574105838",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjUOU9h4hJblthySVM0dHQ_Qllx8bHi-D3BVnLZbphvxEA=s120-c-rp-mo-br100",
+                    "review_text": "Anytime I take myself, or the kids. It's an amazing experience. I do have to note. The weekend crew are alot happier than Monday's crew.\nOther than that I will chose this over the E.R in Bartlesville",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Brittany, \nThank you for your review! We hope if you are ever in need of care again you will come back to visit one of our clinics in the future.",
+                    "owner_answer_timestamp": 1692801933,
+                    "owner_answer_timestamp_datetime_utc": "08/23/2023 14:45:33",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURwdG8zdVhnEAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIDpto3uXg%7CCgwI_sqOpwYQqL21lgE%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1692640638,
+                    "review_datetime_utc": "08/21/2023 17:57:18",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1M2NHSDZRRRAB",
+                    "review_pagination_id": "CAESBkVnSUlEQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/103977399297105707526?hl=en-US",
+                    "author_title": "Kathy McNeill",
+                    "author_id": "103977399297105707526",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocLS2CpBgPUqLAbq69bRqgdzCrjBy71bV-IV3d_HyFFl=s120-c-rp-mo-br100",
+                    "review_text": "Everyone was very friendly and professional. I made an appointment and got right in. I always go here when the need arises. Have always been satisfied.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Kathy, \nThank you very much for your positive feedback. We truly appreciate you for choosing our clinic for your urgent care needs and taking the time to let us know how we are doing. We take pride in taking care of our patients. Hope you think of us in the future.",
+                    "owner_answer_timestamp": 1697472783,
+                    "owner_answer_timestamp_datetime_utc": "10/16/2023 16:13:03",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM1M2NHSDZRRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIC53cGH6QE%7CCgwIn5W1qQYQgOrSvwM%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1697467039,
+                    "review_datetime_utc": "10/16/2023 14:37:19",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdGJIeHpBRRAB",
+                    "review_pagination_id": "CAESBkVnSUlEUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/111121618048467330169?hl=en-US",
+                    "author_title": "Moe Nagaty",
+                    "author_id": "111121618048467330169",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocK_sx-kLb0qvDAGo4D0n9ScWrcjdzvO6QsOcDQRlCG4=s120-c-rp-mo-br100",
+                    "review_text": "Excellent experience. The front desk was very friendly, helpful and respectful. The nurse was very pleasant and courteous. The medical provider was Excellent. She examined my burn thoroughly and treated me with care. She gave me detailed instructions on how to care for it.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Moe Nagaty,\n\nThank you for taking the time to rate and review your visit with us. We appreciate you choosing NextCare!",
+                    "owner_answer_timestamp": 1682959399,
+                    "owner_answer_timestamp_datetime_utc": "05/01/2023 16:43:19",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURSdGJIeHpBRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIDRtbHxzAE%7CCgwIkK66ogYQkJOJwwI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1682872080,
+                    "review_datetime_utc": "04/30/2023 16:28:00",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKaV9HTXZBRRAB",
+                    "review_pagination_id": "CAESBkVnSUlEZw==",
+                    "author_link": "https://www.google.com/maps/contrib/105808668687136431464?hl=en-US",
+                    "author_title": "Sarah Fields",
+                    "author_id": "105808668687136431464",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocI5tniKzoWHCVOtUmmKt7dqq7kSlb0FiPTA2DCfOMfB=s120-c-rp-mo-br100",
+                    "review_text": "The staff at Access was polite and helpful and courteous. I wasn't able to get into my regular Dr. until next week but I needed help with my 2nd go around with shingles. Thank you Access!",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Sarah, \nWe are happy to see that we were able to help you get started on your journey to feeling better! Thank you for letting us know how we are doing.",
+                    "owner_answer_timestamp": 1690217394,
+                    "owner_answer_timestamp_datetime_utc": "07/24/2023 16:49:54",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKaV9HTXZBRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIDJi_GMvAE%7CCgwI-p7wpQYQ2InR4QI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1690046330,
+                    "review_datetime_utc": "07/22/2023 17:18:50",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbk1IZF9BRRAB",
+                    "review_pagination_id": "CAESBkVnSUlEdw==",
+                    "author_link": "https://www.google.com/maps/contrib/100760071817277538996?hl=en-US",
+                    "author_title": "raymond stice",
+                    "author_id": "100760071817277538996",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjWxjR-P_n8rtS15zn3S8hdN_vguFVkWCLvyQCjgUj5Y20k=s120-c-rp-mo-ba4-br100",
+                    "review_text": "This place always treats my family great. They stay open late and are always there if you need anything. I never have any problems with the progress from start to finish it smooth. Thank you guys for all you do to help",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello raymond, \nWe are glad that you had a positive experience! Thank you for taking the time to leave a review.",
+                    "owner_answer_timestamp": 1687473759,
+                    "owner_answer_timestamp_datetime_utc": "06/22/2023 22:42:39",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKbk1IZF9BRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgICJnMHd_AE%7CCgwI15_SpAYQ-L2NogI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1687457751,
+                    "review_datetime_utc": "06/22/2023 18:15:51",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaN2J6SERBEAE",
+                    "review_pagination_id": "CAESBkVnSUlFQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/102507959247756822103?hl=en-US",
+                    "author_title": "Karen Duncan",
+                    "author_id": "102507959247756822103",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocK0PsGOgw5qQiR6-b9IHdIaHZWtctxYikw53fQoxqAu=s120-c-rp-mo-br100",
+                    "review_text": "Every person was so friendly and helpful. I was comfortable being there. I would give them all 10 stars!!",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Karen, \nWe are happy to see that we were able to help you get started on your journey to feeling better! Thank you for letting us know how we are doing.",
+                    "owner_answer_timestamp": 1695912480,
+                    "owner_answer_timestamp_datetime_utc": "09/28/2023 14:48:00",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNaN2J6SERBEAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgICZ7bzHDA%7CCgsIwIaTqAYQyOWHUQ%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1694810944,
+                    "review_datetime_utc": "09/15/2023 20:49:04",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbHFPcHJBRRAB",
+                    "review_pagination_id": "CAESBkVnSUlFUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/100905339889409010244?hl=en-US",
+                    "author_title": "Angie Gailey",
+                    "author_id": "100905339889409010244",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocKIn-7unM566Bj83-VOhR_OuhZxv7OANqfFXG8qkGlq=s120-c-rp-mo-br100",
+                    "review_text": "We had a Dr named Deb and she was the best. So helpful and knowledgeable. I would totally recommend her every time",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Angie Gailey,\n\nThank you for all the stars! We appreciate you choosing NextCare!",
+                    "owner_answer_timestamp": 1687799267,
+                    "owner_answer_timestamp_datetime_utc": "06/26/2023 17:07:47",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKbHFPcHJBRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgICJlqOprAE%7CCgwI4Z_mqAYQqJeytwE%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1696174049,
+                    "review_datetime_utc": "10/01/2023 15:27:29",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKc2QyVE93EAE",
+                    "review_pagination_id": "CAESBkVnSUlFZw==",
+                    "author_link": "https://www.google.com/maps/contrib/108870100111093205077?hl=en-US",
+                    "author_title": "Jessica Pinkerton",
+                    "author_id": "108870100111093205077",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocK72-aImdeeJ9wbZyhr_b6E0zDNpOGF5ScVM2vdwwWc=s120-c-rp-mo-br100",
+                    "review_text": "We have 10 people in our house, all but 3 are on antibiotics for strep, ear infections, and pneumonia.  My husband has had strep before, but they told him he has an infection that is untreatable in the hand-foot- mouth family!  He had to go elsewhere for re diagnoses.  It was strep!  He lost extra work time.  We have never had an issue there before, but I have strep now too.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Jessica, \nWe are sorry to hear about your negative experience at our clinic. We strive to provide exceptional service to all patients, and we are disappointed you left unhappy. Please know that we value your feedback and will use it to better our services. If you would like to discuss this matter further feel free to contact our Patient Liaison at wecare@nextcare.com. We hope that you get well soon.",
+                    "owner_answer_timestamp": 1688050841,
+                    "owner_answer_timestamp_datetime_utc": "06/29/2023 15:00:41",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKc2QyVE93EAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgICJsd2TOw%7CCgwIsqL2pAYQsJfQ2wE%7C?hl=en-US",
+                    "review_rating": 4,
+                    "review_timestamp": 1688047922,
+                    "review_datetime_utc": "06/29/2023 14:12:02",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwb3NHTzZnRRAB",
+                    "review_pagination_id": "CAESBkVnSUlFdw==",
+                    "author_link": "https://www.google.com/maps/contrib/117721473993257086992?hl=en-US",
+                    "author_title": "Craig",
+                    "author_id": "117721473993257086992",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjWNjv0IFLYCa_vwWBBRvNf0UVu03JJJNNKYRjJYcZh5uac=s120-c-rp-mo-br100",
+                    "review_text": "Great staff. Never have had to wait for long periods of time. Had quality care for myself & others when I've gone.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello Craig, \nThank you for your review! We hope if you are ever in need of care again you will come back to visit one of our clinics in the future.",
+                    "owner_answer_timestamp": 1692631933,
+                    "owner_answer_timestamp_datetime_utc": "08/21/2023 15:32:13",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwb3NHTzZnRRAB!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgIDposGO6gE%7CCgwI5uT-pgYQ0JyHlQE%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1692381798,
+                    "review_datetime_utc": "08/18/2023 18:03:18",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                },
+                {
+                    "google_id": "0x87b71186c817903d:0x5843a5dda9f0c332",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlbm9pTUZREAE",
+                    "review_pagination_id": "CAESBkVnSUlGQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/104111489780572881640?hl=en-US",
+                    "author_title": "maryann cole",
+                    "author_id": "104111489780572881640",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocJfTWddcMJyWlBXLJGIifvzuPK8RC6lEn-2Mqt328zE=s120-c-rp-mo-br100",
+                    "review_text": "I didn't have an appointment and because they were not busy, I got right in! I always go there to get my allergy shot.  They're very nice!",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "Hello maryann cole,\n\nThank you for all the stars! We appreciate you choosing NextCare!",
+                    "owner_answer_timestamp": 1663345290,
+                    "owner_answer_timestamp_datetime_utc": "09/16/2022 16:21:30",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNlbm9pTUZREAE!2m1!1s0x0:0x5843a5dda9f0c332!3m1!1s2@1:CIHM0ogKEICAgICenoiMFQ%7CCgwIyZWlpgYQqKjisAI%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1690913481,
+                    "review_datetime_utc": "08/01/2023 18:11:21",
+                    "review_likes": 0,
+                    "reviews_id": "6360109470234755890"
+                }
+            ],
+            "photos_count": 4,
+            "cid": "6360109470234755890",
+            "reviews_link": null,
+            "reviews_id": "6360109470234755890",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipO8-NFmslZ_-lrWupCg81QEj2TlxcwaDwgCGL8Y=w800-h500-k-no",
+            "street_view": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OJ2kMn-v64QjqzBOEuvvNg&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=103.48211&pitch=0&thumbfov=100",
+            "working_hours_old_format": "Monday:8AM-8PM|Tuesday:8AM-8PM|Wednesday:8AM-8PM|Thursday:8AM-8PM|Friday:8AM-8PM|Saturday:9AM-4PM|Sunday:9AM-4PM",
+            "working_hours": {
+                "Monday": "8AM-8PM",
+                "Tuesday": "8AM-8PM",
+                "Wednesday": "8AM-8PM",
+                "Thursday": "8AM-8PM",
+                "Friday": "8AM-8PM",
+                "Saturday": "9AM-4PM",
+                "Sunday": "9AM-4PM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Has online care": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": true,
+                    "Wheelchair accessible parking lot": true,
+                    "Wheelchair accessible restroom": true
+                },
+                "Amenities": {
+                    "Restroom": true
+                },
+                "Planning": {
+                    "Accepts new patients": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": {
+                "1": 35,
+                "2": 9,
+                "3": 13,
+                "4": 81,
+                "5": 800
+            },
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": "100150521160122335534",
+            "verified": true,
+            "owner_title": "Access Medical Centers - Urgent Care",
+            "owner_link": "https://www.google.com/maps/contrib/100150521160122335534",
+            "location_link": "https://www.google.com/maps/place/Access+Medical+Centers+-+Urgent+Care/@36.716094999999996,-95.934563,14z/data=!4m8!1m2!2m1!1sAccess+Medical+Centers+-+Urgent+Care!3m4!1s0x87b71186c817903d:0x5843a5dda9f0c332!8m2!3d36.716094999999996!4d-95.934563"
+        }
+    ],
+    "location": {
+        "lat": 36.716095,
+        "lng": -95.934563
+    }
+}

@@ -1,0 +1,1601 @@
+{
+    "hospital_name": "Labette Health Independence Healthcare Center",
+    "place_id": "ChIJUerlRLrUuYcRWzj_P1NQuJ4",
+    "reviews": [
+        {
+            "query": "ChIJUerlRLrUuYcRWzj_P1NQuJ4",
+            "name": "Labette Health Independence Healthcare Center",
+            "place_id": "ChIJUerlRLrUuYcRWzj_P1NQuJ4",
+            "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+            "full_address": "510 N Peter Pan Rd, Independence, KS 67301",
+            "borough": null,
+            "street": "510 N Peter Pan Rd",
+            "postal_code": "67301",
+            "area_service": false,
+            "country_code": "US",
+            "country": "United States of America",
+            "city": "Independence",
+            "us_state": "Kansas",
+            "state": "Kansas",
+            "plus_code": "869667H5+59",
+            "latitude": 37.2279536,
+            "longitude": -95.7415031,
+            "time_zone": "America/Chicago",
+            "popular_times": [
+                {
+                    "day": 7,
+                    "popular_times": [
+                        {
+                            "hour": 4,
+                            "percentage": 29,
+                            "title": "Usually not too busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 5,
+                            "percentage": 19,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 6,
+                            "percentage": 18,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 14,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 10,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 14,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 15,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 10,
+                            "title": "Usually not busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 17,
+                            "title": "Usually not busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 24,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 36,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 31,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 39,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 36,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 41,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 32,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 32,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 20,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 20,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 0,
+                            "percentage": 18,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 1,
+                            "percentage": 14,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 2,
+                            "percentage": 12,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 3,
+                            "percentage": 15,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        }
+                    ]
+                },
+                {
+                    "day": 1,
+                    "popular_times": [
+                        {
+                            "hour": 4,
+                            "percentage": 3,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 5,
+                            "percentage": 13,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 6,
+                            "percentage": 20,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 43,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 60,
+                            "title": "Usually a little busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 67,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 59,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 53,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 53,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 65,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 68,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 70,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 52,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 39,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 31,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 29,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 29,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 36,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 37,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 0,
+                            "percentage": 30,
+                            "title": "Usually not too busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 1,
+                            "percentage": 16,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 2,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 3,
+                            "percentage": 2,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        }
+                    ]
+                },
+                {
+                    "day": 2,
+                    "popular_times": [
+                        {
+                            "hour": 4,
+                            "percentage": 4,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 5,
+                            "percentage": 9,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 6,
+                            "percentage": 31,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 48,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 80,
+                            "title": "Usually as busy as it gets",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 86,
+                            "title": "Usually as busy as it gets",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 96,
+                            "title": "Usually as busy as it gets",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 87,
+                            "title": "Usually as busy as it gets",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 78,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 75,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 69,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 65,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 59,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 54,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 47,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 34,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 17,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 12,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 6,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 0,
+                            "percentage": 3,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 1,
+                            "percentage": 2,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 2,
+                            "percentage": 1,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 3,
+                            "percentage": 3,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        }
+                    ]
+                },
+                {
+                    "day": 3,
+                    "popular_times": [
+                        {
+                            "hour": 4,
+                            "percentage": 10,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 5,
+                            "percentage": 19,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 6,
+                            "percentage": 19,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 34,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 60,
+                            "title": "Usually a little busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 90,
+                            "title": "Usually as busy as it gets",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 100,
+                            "title": "Usually as busy as it gets",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 72,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 49,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 30,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 34,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 47,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 49,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 41,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 34,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 28,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 29,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 37,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 36,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 41,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 0,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 1,
+                            "percentage": 39,
+                            "title": "Usually not too busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 2,
+                            "percentage": 25,
+                            "title": "Usually not too busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 3,
+                            "percentage": 13,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        }
+                    ]
+                },
+                {
+                    "day": 4,
+                    "popular_times": [
+                        {
+                            "hour": 4,
+                            "percentage": 15,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 5,
+                            "percentage": 20,
+                            "title": "Usually not too busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 6,
+                            "percentage": 12,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 13,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 26,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 46,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 70,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 71,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 59,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 45,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 41,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 37,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 31,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 20,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 17,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 13,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 12,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 15,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 28,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 18,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 0,
+                            "percentage": 17,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 1,
+                            "percentage": 5,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 2,
+                            "percentage": 3,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 3,
+                            "percentage": 7,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        }
+                    ]
+                },
+                {
+                    "day": 5,
+                    "popular_times": [
+                        {
+                            "hour": 4,
+                            "percentage": 2,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 5,
+                            "percentage": 8,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 6,
+                            "percentage": 13,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 26,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 38,
+                            "title": "Usually not too busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 48,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 65,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 71,
+                            "title": "Usually a little busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 58,
+                            "title": "Usually a little busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 40,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 35,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 52,
+                            "title": "Usually a little busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 47,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 39,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 25,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 19,
+                            "title": "Usually not busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 30,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 28,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 31,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 24,
+                            "title": "Usually not too busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 0,
+                            "percentage": 19,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 1,
+                            "percentage": 19,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 2,
+                            "percentage": 8,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 3,
+                            "percentage": 4,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        }
+                    ]
+                },
+                {
+                    "day": 6,
+                    "popular_times": [
+                        {
+                            "hour": 4,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 5,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "3a"
+                        },
+                        {
+                            "hour": 6,
+                            "percentage": 0,
+                            "title": "",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 7,
+                            "percentage": 2,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 8,
+                            "percentage": 9,
+                            "title": "Usually not busy",
+                            "time": "6a"
+                        },
+                        {
+                            "hour": 9,
+                            "percentage": 20,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 10,
+                            "percentage": 34,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 11,
+                            "percentage": 32,
+                            "title": "Usually not too busy",
+                            "time": "9a"
+                        },
+                        {
+                            "hour": 12,
+                            "percentage": 37,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 13,
+                            "percentage": 40,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 14,
+                            "percentage": 32,
+                            "title": "Usually not too busy",
+                            "time": "12p"
+                        },
+                        {
+                            "hour": 15,
+                            "percentage": 28,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 16,
+                            "percentage": 24,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 17,
+                            "percentage": 23,
+                            "title": "Usually not too busy",
+                            "time": "3p"
+                        },
+                        {
+                            "hour": 18,
+                            "percentage": 25,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 19,
+                            "percentage": 26,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 20,
+                            "percentage": 27,
+                            "title": "Usually not too busy",
+                            "time": "6p"
+                        },
+                        {
+                            "hour": 21,
+                            "percentage": 18,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 22,
+                            "percentage": 18,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 23,
+                            "percentage": 10,
+                            "title": "Usually not busy",
+                            "time": "9p"
+                        },
+                        {
+                            "hour": 0,
+                            "percentage": 10,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 1,
+                            "percentage": 15,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 2,
+                            "percentage": 7,
+                            "title": "Usually not busy",
+                            "time": "12a"
+                        },
+                        {
+                            "hour": 3,
+                            "percentage": 3,
+                            "title": "Usually not busy",
+                            "time": "3a"
+                        }
+                    ]
+                },
+                {
+                    "day": "live",
+                    "percentage": 3,
+                    "title": "Busier than usual",
+                    "time": 16
+                }
+            ],
+            "site": "https://www.labettehealth.com/clinics/independence-healthcare-center/",
+            "phone": "+1 620-332-2000",
+            "type": "Hospital department",
+            "logo": "https://lh4.googleusercontent.com/-Kgzy_UWZg3s/AAAAAAAAAAI/AAAAAAAAAAA/n97dUZWyd2M/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": "People typically spend 25 min to 1.5 hr here",
+            "located_in": null,
+            "located_google_id": null,
+            "category": "Hospital department",
+            "subtypes": "Hospital department, Hospital",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 2.5,
+            "reviews": 36,
+            "reviews_data": [
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGamJLNEJREAE",
+                    "review_pagination_id": "CAESBkVnSUlBUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/102118171837109760666?hl=en-US",
+                    "author_title": "Haley Lew",
+                    "author_id": "102118171837109760666",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjWgS8PKzLaULt0r8dOudziS6lSCIsOHl3S0rzUSfRuwpg=s120-c-rp-mo-br100",
+                    "review_text": "Worst experience I have ever had at an ER. I got injured at work and was rushed to the Labette Health ER for a possible concussion. I could barely walk or see when I was brought in. From the very beginning I felt like a complete inconvenience their staff. Barely conscious I had to fill out paperwork before I could even be seen by anyway. I can\u2019t recall how long I waited but I remember sitting there in so much pain throwing up into a trash can. Note: There was no one in the lobby. During the entire visit I had to suffer with rude and inconsiderate nurses who treated me like I was completely fine. There were so many incidents of neglect and impatience. I don\u2019t feel comfortable going into complete detail about everything, but one of the most notable parts was when I had used my call button to ask what was happening or if I had any friends or family there. I was so scared and confused. The nurse responded with \u201cI don\u2019t know I don\u2019t check the cameras.\u201d They took my call button away and left for me with nothing for so long (I didn\u2019t have my cell phone or anything on me) After being told I was discharged after an hour of not seeing anyone they gave me papers and didn\u2019t even walk me out or show me to the  lobby or exit. My loved ones watched me stumble into the lobby barely being able to see with no help or assistance from anyone. No one informed them of my state, or condition the entire time. Overall it was a terrible experience where I felt neglected, unheard, and disrespected in my most vulnerable state.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNGamJLNEJREAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICFjbK4BQ%7CCgwI9IiAqgYQ4Our9QI%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1698694260,
+                    "review_datetime_utc": "10/30/2023 19:31:00",
+                    "review_likes": 0,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaMWJlT0l3EAE",
+                    "review_pagination_id": "CAESBkVnSUlBZw==",
+                    "author_link": "https://www.google.com/maps/contrib/103238865656712014787?hl=en-US",
+                    "author_title": "Taina Copeland",
+                    "author_id": "103238865656712014787",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjUsslaYiJqPRm13v3eAgcdUhcwaTLAJlCfpztvGIHVCA6X5=s120-c-rp-mo-br100",
+                    "review_text": "I took my adult, high risk pregnant daughter to the ER in Independence last night and was shocked at how rude everyone we came in contact was. It was like we were a pain in the rear and disturbing their time. From now on we will go to Coffeyville. It\u2019s too bad that Independence really needs this ER. Im very disappointed as this isn\u2019t the first time this has happened to us. The clinic staff is wonderful but the ER staff leaves a lot to be desired.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURaMWJlT0l3EAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIDZ1beOIw%7CCgwIpNv7qAYQuNKH_wE%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1696525732,
+                    "review_datetime_utc": "10/05/2023 17:08:52",
+                    "review_likes": 2,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaLWF6M3F3RRAB",
+                    "review_pagination_id": "CAESBkVnSUlBdw==",
+                    "author_link": "https://www.google.com/maps/contrib/109543155082007550672?hl=en-US",
+                    "author_title": "What Name",
+                    "author_id": "109543155082007550672",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjVlZhb2_cmJFagCY0w4rpm5vYPH2WprfT4j4iktdDwjvUM=s120-c-rp-mo-br100",
+                    "review_text": "The secretaries and nurses are ALWAYS rude and I have no idea how those doctors even have a job! The first time I came in was to have a bacterial infection checked out and they took one look at me and accused me of having chlamydia!!! When I said I wasn't active, they said they didn't know what it could be and sent me out. About half a year later, I came in with a laceration on my thumb from a gardening accident, and after waiting in the ER for 2 hours (there were no other patients btw), they superglued my thumb shut without antibiotics or sterilization, leading to it becoming infected a week later and I had to re-set it myself anyway and they charged me $2,000!!! FOR SUPERGLUE!!!",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "We apologize for your experience and would like to speak to you so we can obtain further information as we want to properly address this concern.  Please contact us via our website at https://www.labettehealth.com/forms/contact-us/  and include your email and/or phone number.   We appreciate you reaching out to us.",
+                    "owner_answer_timestamp": 1695928744,
+                    "owner_answer_timestamp_datetime_utc": "09/28/2023 19:19:04",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaLWF6M3F3RRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICZ-az3qwE%7CCgsI95GJqAYQ8O3jVQ%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1694648567,
+                    "review_datetime_utc": "09/13/2023 23:42:47",
+                    "review_likes": 2,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1NHA3S3JRRRAB",
+                    "review_pagination_id": "CAESBkVnSUlCQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/105609974477923746381?hl=en-US",
+                    "author_title": "Lindsey Garcia",
+                    "author_id": "105609974477923746381",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocK0bpisYzULeVQYio9yipPmhy4k-KxJ1vrOkSTJlLrE=s120-c-rp-mo-br100",
+                    "review_text": "I will never go to this place again. I went in with what felt like a broken toe. The pain is pretty bad when I try to walk. I tried OTC meds and nothing helped it so I, uninsured, went here only to be treated like I had a paper cut. Was told \u201cI\u2019ll be fine\u201d. \u201cIt\u2019s not that bad\u201d. I can\u2019t put any weight on it. It\u2019s swollen but they said it\u2019s not broken. And? So it has to be actually broken for me to receive DECENT CARE????? I\u2019m sick of these ARNP\u2019s thinking they know everything. I will be filing a formal complaint with the proper agencies. This is the 4th time I went there only to be treated this way. I will not be paying that bill either. I\u2019ll tell them what they told me when I needed something done. They\u2019ll be fine without my payment. My non-payment won\u2019t be that bad. Ben Smith is a joke. I remember back when MD\u2019s existed. They wouldn\u2019t have let me leave with them buddy wrapping it THEMSELVES or something. They\u2019ve lost a lot of business due to similar behavior with other patients. 8 out of 10 people you ask about this place will have nothing but bad things to say. That\u2019s why we all go to either coffeyville or neodesha. Pretty bad we have to drive 20+ miles to be treated properly. I hope enough of us complain and they\u2019ll finally shut this joke of a place down. I cannot wait to receive this bill. They\u2019ll be getting a nice little letter back from me. If I could give negative stars I would. Sorry for the novel of a review but this is ridiculous how they treat us and it\u2019s a real problem in this town",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM1NHA3S3JRRRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIC54p7KrQE%7CCgwIrZqeqQYQ2IG4iQI%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1697090861,
+                    "review_datetime_utc": "10/12/2023 06:07:41",
+                    "review_likes": 0,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4ME92NHpnRRAB",
+                    "review_pagination_id": "CAESBkVnSUlCUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/108259497514305672962?hl=en-US",
+                    "author_title": "Ash Barr",
+                    "author_id": "108259497514305672962",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocL6oMIAnf5oEpYJfBMih9tell9OLDVW1oWHhMllLL8=s120-c-rp-mo-br100",
+                    "review_text": "DOC, and Nurse were RUDE, as well as treated myself and my daughter as if my daughters stomach pain was non of there concern.. If there was another facility in the area I would NEVER come back...\nREPLACE THESE RUDE, COLD,INCONSIDERATE HEALTHCARE TEAM.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR4ME92NHpnRRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIDx0Ov4zgE%7CCgwI-KPaowYQ-IHjiQM%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1685492216,
+                    "review_datetime_utc": "05/31/2023 00:16:56",
+                    "review_likes": 4,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSN1BfSkl3EAE",
+                    "review_pagination_id": "CAESBkVnSUlCZw==",
+                    "author_link": "https://www.google.com/maps/contrib/109209518146122496870?hl=en-US",
+                    "author_title": "Adam Hersh",
+                    "author_id": "109209518146122496870",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjWRK95ytIomT75Mu8po_e5s37CrcAEgnQtoF9DxBtLyv-Q-=s120-c-rp-mo-br100",
+                    "review_text": "At a 9am visit both the first responding nurse and the female doctor were both rude as hell... I'm not one to complain but here my body is fighting for its life you would think as a nurse one could be a little less rude and empathetic.. Just because you using proper etiquette doesn't mean your overall attitude isn't in it's right place...  I give one star bc not everyone at the facility acted the same way but they weren't who made sure I was taken care of it was this nurse and doctor... It almost seemed like they were trying to out do each other in giving me a bad attitude and disagreeing with everything we were telling them as this isn't our first admittance for this... I do not recommend bringing your loved ones to this facility as a overhaul is needed before I would...",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSN1BfSkl3EAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIDR7P_JIw%7CCgwIr-6BogYQyOr9rgM%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1681946415,
+                    "review_datetime_utc": "04/19/2023 23:20:15",
+                    "review_likes": 3,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlc1ltdW13RRAB",
+                    "review_pagination_id": "CAESBkVnSUlCdw==",
+                    "author_link": "https://www.google.com/maps/contrib/103720002152926436993?hl=en-US",
+                    "author_title": "Jonathan Goetz",
+                    "author_id": "103720002152926436993",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjXr1VwzM3H2jH48WWKjNl8uYRahyWOr85HHoONjVFPazfI=s120-c-rp-mo-br100",
+                    "review_text": "Please keep y/our rural hospital open! I wanted to give you a 5 Star review because the IV you use is really good at preventing bruising. They transferred me to Coffeyville and that makes sense, but they hooked their own IV up to me in the other arm and explained which came from where and I have to say, even though yours \"looked\" scarier with the pool of blood in the middle, and is more painful to be pulled out than the ones they use on Coffeyville, yours prevents internal bleeding. 5 stars \ud83c\udf1f \ud83c\udf1f \ud83c\udf1f \ud83c\udf1f \ud83c\udf1f  I'm glad they transferred me to someplace that could provide a higher level of care, but for what you offer, your services are top knotch.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNlc1ltdW13RRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICesYmumwE%7CCgwI6Y-TmQYQiKvXpQE%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1663354857,
+                    "review_datetime_utc": "09/16/2022 19:00:57",
+                    "review_likes": 0,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLLU95TmRBEAE",
+                    "review_pagination_id": "CAESBkVnSUlDQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/117436927605683497009?hl=en-US",
+                    "author_title": "Chloe Asbury",
+                    "author_id": "117436927605683497009",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjXOy5ZhDB_znX_Pb8g8lDS-CS-_r3AOviHdOJjs7I2nQxo=s120-c-rp-mo-br100",
+                    "review_text": "I took my partner to the emergency room today after he\u2019d had a severe allergic reaction to cashews. They were clearly in no hurry to treat him, with the nurse stopping to chat with the woman working front desk (who was great) before calling him back. When the two nurses were asking about symptoms, he said he was having stomach pains. The nurse asked if he was having diarrhea pains, and the nurse at the station outside the door started laughing loudly. The two nurses in the room with us also started laughing about it. It was ridiculously unprofessional and childish. Like it\u2019s already an embarrassing subject, and they all three just laughed in his face about it.\n\nThe doctor came in and said since he\u2019d used an Epinephrine pen, he would be fine. We asked if we could stay a bit longer in case any other symptoms presented, as he also had severe asthma. He said we couldn\u2019t stay. I asked the doctor what to expect and under what circumstances/symptoms should we be concerned. He gave us no information and said he\u2019d be fine. Didn\u2019t mention anything about the horrible hives he now has, the high fever, and didn\u2019t say to call 911 if he started having trouble breathing. We had to look this up ourselves when we got home. All around a HORRIBLE experience. Nobody took anything seriously, and it felt like we were just brushed off by the doctor and every nurse there.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNLLU95TmRBEAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICK-OyNdA%7CCgwI7vH-ggYQgJWwvgE%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1616885998,
+                    "review_datetime_utc": "03/27/2021 22:59:58",
+                    "review_likes": 7,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHaWVMY3N3RRAB",
+                    "review_pagination_id": "CAESBkVnSUlDUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/106758046856809924323?hl=en-US",
+                    "author_title": "Carla Terrian",
+                    "author_id": "106758046856809924323",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjWAbgnk8Tsz1fF-LC9R2s4I9r98R2_VPmspXvnFpLJntNY=s120-c-rp-mo-ba4-br100",
+                    "review_text": "Went to the ER last due to my Foley catheter was leaking. The nurse was awesome but the PA wasn't. If they would have done their job they would have noticed that my stent was coming out. I ended up having to go back to the urologist. The nurse in Independence made a comment about me having stents but nobody checked on them.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHaWVMY3N3RRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIDGieLcswE%7CCgsIwaOfjQYQ4K2EBA%7C?hl=en-US",
+                    "review_rating": 2,
+                    "review_timestamp": 1638388161,
+                    "review_datetime_utc": "12/01/2021 19:49:21",
+                    "review_likes": 0,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5bDZPa0t3EAE",
+                    "review_pagination_id": "CAESBkVnSUlDZw==",
+                    "author_link": "https://www.google.com/maps/contrib/106750759828274753875?hl=en-US",
+                    "author_title": "Chuck Foster",
+                    "author_id": "106750759828274753875",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjV7o9-_zCL2SKgjDQAjCTUm2oEK6iuXHiqLyIYeBwUc2Q=s120-c-rp-mo-br100",
+                    "review_text": "This review is SOLELY directed at the Labette Health Independence BILLING DEPARTMENT. The medical staff of Labette Health Independence (5 Stars) do a fantastic job and have always been friendly and helpful. The billing department used to be awesome up until the beginning of 2020 as we never had a problem with primary/secondary insurance billing. Then that all changed. We have literally been in a back and forth with them and their bill collection agency for over a year because they did not believe it was their fault the wrong secondary insurance entity was being billed and getting denied. I personally had to do all the leg work for them to get it corrected but still have one bill in limbo. Had the billing department just paid attention to detail this could have been avoided. It was like dealing with Mercy Hospital billing all over again and they were the just absolutely horrible.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR5bDZPa0t3EAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIDyl6OkKw%7CCgwImNjYggYQwMHpqgI%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1616260120,
+                    "review_datetime_utc": "03/20/2021 17:08:40",
+                    "review_likes": 1,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKMi1PeWZBEAE",
+                    "review_pagination_id": "CAESBkVnSUlDdw==",
+                    "author_link": "https://www.google.com/maps/contrib/108542644975379881583?hl=en-US",
+                    "author_title": "Creighton Beaver",
+                    "author_id": "108542644975379881583",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocI8fM-YfyL-II75ZdLHVDq_65VZKZxCHntH9MbijnKc=s120-c-rp-mo-br100",
+                    "review_text": "Had an anaphylactic shock. They gave me steroids immediately and I instantly felt better.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKMi1PeWZBEAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICJ2-OyfA%7CCgwIzr-WpQYQ0IfdyAM%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1688575950,
+                    "review_datetime_utc": "07/05/2023 16:52:30",
+                    "review_likes": 0,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxMXBmS2pRRRAB",
+                    "review_pagination_id": "CAESBkVnSUlEQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/116059988655303787939?hl=en-US",
+                    "author_title": "Dyanne Stainbrook",
+                    "author_id": "116059988655303787939",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjV76qMuLByHMAVUB2EnJabLHHdcMYcKLVywisrFXA3k5Ofd=s120-c-rp-mo-ba2-br100",
+                    "review_text": "Worse hospital I have ever seen.  My fiance had multiple seizures and was taken there twice in the last month.  Also his blood pressure was going up and down . And then send him home after just giving him a IV. Ask to be transferred to a different hospital for second opinion they refused",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": "A member of our care team will be reaching out to the patient to answer any questions regarding emergency transfer protocols.",
+                    "owner_answer_timestamp": 1623177304,
+                    "owner_answer_timestamp_datetime_utc": "06/08/2021 18:35:04",
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNxMXBmS2pRRRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICq1pfKjQE%7CCgwI3pPwhQYQiOfW7wI%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1622936030,
+                    "review_datetime_utc": "06/05/2021 23:33:50",
+                    "review_likes": 1,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLaUpla09BEAE",
+                    "review_pagination_id": "CAESBkVnSUlEUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/102568553485814382858?hl=en-US",
+                    "author_title": "Roman Lopez",
+                    "author_id": "102568553485814382858",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocKz51fB2ERyCwzqbhpKglBKH-qeYuhsSu3ito1u-5Cvwg=s120-c-rp-mo-br100",
+                    "review_text": "My wife had some recent health issues that required her to go to Labette Health ER. She had issues with a kidney stone that caused her severe pain and nausea, making her throw up for nearly two days straight. While at Labette Health, they found that her blood pressure was low, her heart rate was high (130s) and a fever of 103. During our time there (from Thursday night to Friday night) her blood pressure remained low, and her fever and heart rate remained consistently high. She had went through MULTIPLE bags of fluid (due to dehydration), a bag of antibiotics and pain medicine/fever reducer. Her labs resulted in pyelonephritis.\n\nWhen we were about to leave on Friday, my wife experienced a tightness in her chest, shortness of breath, and wheezing. Her fever and heart rate sky rocketed yet again. Labette Health ordered an X-Ray, but told us later that night we needed to be transferred to Parsons to be monitored, due to short staff. There was a shift change and the night shift physician did not come to the room at all before we were transferred to Parsons. The night shift nurse handed us an envelope with our results to transfer to Parsons with us.\n\nWe were told to give the X-Ray results to the physician in Parsons to be looked at instead, which were given to the nurse immediately. After being hooked up to another bag of fluids and staying the night, they never gave my wife the results of the X-Ray. Instead, they were focused on the kidney stone which, at this point, was not bothering her anymore. During the late night before a shift change a nurse came in to tell my wife she has been flagged for being at risk for COPD. My wife explained that she is not a smoker but has asthma and was informed that her asthma would turn into COPD later and she needed to meet with her PCP to discuss ways to slow the process to ensure quality of life later on. The nurse also gave us a pamphlet for COPD. Also, this shows that someone looked at the X-Ray results we gave them, but didn't take the time to thoroughly go over them (again, because they gave her a pamphlet on COPD). During our stay my wife had received two breathing treatments and complained of chest tightness. They prescribed her antibiotics for the  pyelonephritis and released my wife without discussing X-Ray results after her heart rate, blood pressure, and fever went back to normal. We had to ask when we would know whether we were on the correct antibiotics or not and the physician told us that she was leaving for the day and the next shift physician would give us a call with the results, but if we did not receive a call we were to just \"assume it's good\".\n\nWe arrived home and realized that we did not hear about the chest results and my wife continued to have chest tightness and shortness of breath. I called Parsons regarding the X-Ray results and was told that because the on-site physician did not know anything about the X-Rays and told us to call Independence and see if the physician there could read them. I called Labette in Indy and was told that the physician there wouldn't be able to tell us the X-Ray results either and we would have to wait to speak with the PCP.\n\nOn Sunday my wife continued to experienced chest tightness and shortness of breath. Her heart rate was high, yet again, and her blood pressure was low. We decided she needed to go to the ER in Coffeyville to get some answers because neither Parsons or Independence would give us our results.\n\nWith all this being said, while we were pleased with Labette Health's hospitality and caring nursing staff, we were not impressed with their inability to follow medical guidelines and thoroughly go over and give us the X-Ray results, but rather, give my wife more fluids, unnecessary pain medication, and give her a pamphlet on COPD. We are disappointed that we had to go to another facility to get X-Ray results, which diagnosed my wife with Pneumonia. We are disappointed that we are now stuck with 2 separate ER bills and a hospital bill resulting in financial stress.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURLaUpla09BEAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIDKiJekOA%7CCgwIu9CihAYQ2If3mgM%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1619568699,
+                    "review_datetime_utc": "04/28/2021 00:11:39",
+                    "review_likes": 1,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJckxtdWx3RRAB",
+                    "review_pagination_id": "CAESBkVnSUlEZw==",
+                    "author_link": "https://www.google.com/maps/contrib/111093444311541785269?hl=en-US",
+                    "author_title": "Aimee Cook",
+                    "author_id": "111093444311541785269",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocJDq_JMzkqDlOZfFJiLqP_X5r9WAWlrCEX_K1VEcX7f=s120-c-rp-mo-br100",
+                    "review_text": "Last April, my husband was sorting cattle when he was hit in the forehead by a gate.  He got a small cut that was gaping open, so to avoid it giving him a larger scar, we took him to Labette Health Center in Independence.  The facility and staff there were very nice, and they gave him a tetanus shot and 4 stitches.  I was shocked when we received the bill in May...after our insurance had paid their portion, our part of the bill was over $1300.  I called their billing department to ask for a review to possibly reduce the cost, since it was such a minor service.  The review took 4 months (September), and Labette Health decided not to reduce the level of service for the ER visit.  On October 9th, I called the billing department again and they gave me a 5% discount if we paid it all at once over the phone, so we did paying $1287.15.  To top it off, Labette Health had already sent our account to collections, so we started getting calls and letters October 15th.  The collection agency has even tried to just collect the 5% that Labette Health takes off when a customer pays their bill in full rather than makes payments.  I hope we don't ever have to go back, because we certainly couldn't afford anything more than 4 stitches and a tetanus shot.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNJckxtdWx3RRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICIrLmulwE%7CCgwImZzi3gUQm4XwjgM%7C?hl=en-US",
+                    "review_rating": 2,
+                    "review_timestamp": 1540918809,
+                    "review_datetime_utc": "10/30/2018 17:00:09",
+                    "review_likes": 5,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnNDdQUTZBRRAB",
+                    "review_pagination_id": "CAESBkVnSUlEdw==",
+                    "author_link": "https://www.google.com/maps/contrib/117843554106949955825?hl=en-US",
+                    "author_title": "Brandy Scanlon",
+                    "author_id": "117843554106949955825",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjUtPTQLt-23yXdBgPjeOyPCt5xJSLPrIUHIWnQLu4K3sA=s120-c-rp-mo-br100",
+                    "review_text": "Went in for an intractable migraine and wasn't even put in a room. Stayed in triage the whole time and the dr came in and said they couldn't do anything for me since I was under the care of a neurologist, even though I told him that the neurologist told me to go to the er. He then said he could give me some nausea meds but that's it. Very poor treatment here and will never go back even if I am dying.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURnNDdQUTZBRRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIDg47PQ6AE%7CCgwI-pWr2AUQgN784gE%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1527433978,
+                    "review_datetime_utc": "05/27/2018 15:12:58",
+                    "review_likes": 1,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNc1pMNEF3EAE",
+                    "review_pagination_id": "CAESBkVnSUlFQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/114500373396823114121?hl=en-US",
+                    "author_title": "James Gibbons",
+                    "author_id": "114500373396823114121",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocKrxXIzAgFxAOijvqQtlIVru7bT7BTGlNBk0oDYmGzr=s120-c-rp-mo-br100",
+                    "review_text": "Absolutely terrible, I went in for back pain I've had for weeks and was told not to come in to refill scripts and that's not even why I was there. Told the nurse that what I had wasnt helping and I need some form of relief. Doctor was extremely rude. Wouldn't recommend them to see my dog let alone a person",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURNc1pMNEF3EAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgIDMsZL4Aw%7CCgwI4Me58AUQiMbjmwI%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1578001376,
+                    "review_datetime_utc": "01/02/2020 21:42:56",
+                    "review_likes": 2,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2OFB5T3F3RRAB",
+                    "review_pagination_id": "CAESBkVnSUlFUQ==",
+                    "author_link": "https://www.google.com/maps/contrib/110513839017148082856?hl=en-US",
+                    "author_title": "Cathi Morris",
+                    "author_id": "110513839017148082856",
+                    "author_image": "https://lh3.googleusercontent.com/a-/ALV-UjXBok13wj2FayFGkzfOIPOiCuc_llJ6nNvF5ywtKhyd2J5-=s120-c-rp-mo-ba3-br100",
+                    "review_text": "I think this hospital has great staff. But they need to provide a restroom for people who are stuck out in their cars waiting for relatives to seen, admitted or released",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2OFB5T3F3RRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgID68PyOqwE%7CCgwI94qZigYQ6ND7tQM%7C?hl=en-US",
+                    "review_rating": 3,
+                    "review_timestamp": 1631995255,
+                    "review_datetime_utc": "09/18/2021 20:00:55",
+                    "review_likes": 1,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLOTU2OEpBEAE",
+                    "review_pagination_id": "CAESBkVnSUlFZw==",
+                    "author_link": "https://www.google.com/maps/contrib/105482458085361156606?hl=en-US",
+                    "author_title": "Martin metzger",
+                    "author_id": "105482458085361156606",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocKk8c_9dLyioeSm4mC-QJZUXRyni8Lamc4HmOsA77s_=s120-c-rp-mo-br100",
+                    "review_text": "The emergency room team cared for me while I was experiencing a TIA. Fast, efficient and thorough, with a friendly bedside manner. I\u2019m impressed. Thank you!",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNLOTU2OEpBEAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICK9568JA%7CCgwIh9aIhAYQwIzw9gE%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1619143431,
+                    "review_datetime_utc": "04/23/2021 02:03:51",
+                    "review_likes": 1,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3cHJ2UldnEAE",
+                    "review_pagination_id": "CAESBkVnSUlFdw==",
+                    "author_link": "https://www.google.com/maps/contrib/102065198964529211444?hl=en-US",
+                    "author_title": "Austin Fine",
+                    "author_id": "102065198964529211444",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocJW2uv4RTjRfZZqpiSUP4wJRvWPq8OwFK81FymSnTxh=s120-c-rp-mo-br100",
+                    "review_text": "Took my son there for an emergency room visit nothing was resolved about the condition was transferred to coffeyville and was told I wouldn\u2019t get two er visit bills since it was a transfer guess what they lied on top of doing nothing for us I give them zero stars on the er side",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN3cHJ2UldnEAE!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICwprvRWg%7CCgwI_JKd0wUQgM-JigI%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1516718460,
+                    "review_datetime_utc": "01/23/2018 14:41:00",
+                    "review_likes": 2,
+                    "reviews_id": "-7009764501515978661"
+                },
+                {
+                    "google_id": "0x87b9d4ba44e5ea51:0x9eb850533fff385b",
+                    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJOHQtZDBBRRAB",
+                    "review_pagination_id": "CAESBkVnSUlGQQ==",
+                    "author_link": "https://www.google.com/maps/contrib/117318375901101194261?hl=en-US",
+                    "author_title": "Ivy Johnson",
+                    "author_id": "117318375901101194261",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocIPOcZyQZFj9XjYjpF0w8LL5j9770UZAfxtX6RtKDsa=s120-c-rp-mo-br100",
+                    "review_text": "Never ever will I return. Doctor diagnosed my son with an ear infection took him to his doctor the next day he has bronchitis.",
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNJOHQtZDBBRRAB!2m1!1s0x0:0x9eb850533fff385b!3m1!1s2@1:CIHM0ogKEICAgICI8t-d0AE%7CCgwIrPmG3wUQm8LyhwE%7C?hl=en-US",
+                    "review_rating": 1,
+                    "review_timestamp": 1541520556,
+                    "review_datetime_utc": "11/06/2018 16:09:16",
+                    "review_likes": 1,
+                    "reviews_id": "-7009764501515978661"
+                }
+            ],
+            "photos_count": 2,
+            "cid": "11436979572193572955",
+            "reviews_link": null,
+            "reviews_id": "-7009764501515978661",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipMAppz0IjmvoMcTDLbLnkkadI7LEeVrVwupkyZ7=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipOv7-54nE3oJZcLPI8jMz-FZL1petqaNNR_2RTV=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+            "working_hours": {
+                "Monday": "Open 24 hours",
+                "Tuesday": "Open 24 hours",
+                "Wednesday": "Open 24 hours",
+                "Thursday": "Open 24 hours",
+                "Friday": "Open 24 hours",
+                "Saturday": "Open 24 hours",
+                "Sunday": "Open 24 hours"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Has online care": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": true,
+                    "Wheelchair accessible parking lot": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": {
+                "1": 20,
+                "2": 2,
+                "3": 1,
+                "4": 1,
+                "5": 12
+            },
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": "111287282516426955546",
+            "verified": true,
+            "owner_title": "Labette Health Independence Healthcare Center",
+            "owner_link": "https://www.google.com/maps/contrib/111287282516426955546",
+            "location_link": "https://www.google.com/maps/place/Labette+Health+Independence+Healthcare+Center/@37.2279536,-95.7415031,14z/data=!4m8!1m2!2m1!1sLabette+Health+Independence+Healthcare+Center!3m4!1s0x87b9d4ba44e5ea51:0x9eb850533fff385b!8m2!3d37.2279536!4d-95.7415031"
+        }
+    ],
+    "location": {
+        "lat": 37.2279536,
+        "lng": -95.7415031
+    }
+}

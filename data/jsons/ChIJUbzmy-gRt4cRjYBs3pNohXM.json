@@ -1,0 +1,85 @@
+{
+    "hospital_name": "Utica Park Clinic - Bartlesville",
+    "place_id": "ChIJUbzmy-gRt4cRjYBs3pNohXM",
+    "reviews": [
+        {
+            "query": "ChIJUbzmy-gRt4cRjYBs3pNohXM",
+            "name": "Utica Park Clinic - Bartlesville",
+            "place_id": "ChIJUbzmy-gRt4cRjYBs3pNohXM",
+            "google_id": "0x87b711e8cbe6bc51:0x73856893de6c808d",
+            "full_address": "2431 SE Washington Blvd STE B, Bartlesville, OK 74006",
+            "borough": null,
+            "street": "2431 SE Washington Blvd STE B",
+            "postal_code": "74006",
+            "area_service": false,
+            "country_code": "US",
+            "country": "United States of America",
+            "city": "Bartlesville",
+            "us_state": "Oklahoma",
+            "state": "Oklahoma",
+            "plus_code": "8686P377+PM",
+            "latitude": 36.714252099999996,
+            "longitude": -95.93579419999999,
+            "time_zone": "America/Chicago",
+            "popular_times": null,
+            "site": "https://uticaparkclinic.com/utica-park-clinic-bartlesville%3Futm_source%3DGMB%26utm_medium%3Dorganic",
+            "phone": "+1 539-529-6230",
+            "type": "Medical Center",
+            "logo": "https://lh3.googleusercontent.com/-lyJPmlv2C08/AAAAAAAAAAI/AAAAAAAAAAA/9Xz8Kau5xbE/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "Medical Center",
+            "subtypes": "Medical Center",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": null,
+            "reviews": null,
+            "reviews_data": [],
+            "photos_count": 1,
+            "cid": "8324174470565363853",
+            "reviews_link": null,
+            "reviews_id": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4EPVtjzvVGhA2NYWe13-qA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=270.05887&pitch=0&thumbfov=100",
+            "street_view": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4EPVtjzvVGhA2NYWe13-qA&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=270.05887&pitch=0&thumbfov=100",
+            "working_hours_old_format": null,
+            "working_hours": null,
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Accessibility": {
+                    "Wheelchair accessible entrance": true,
+                    "Wheelchair accessible parking lot": true,
+                    "Wheelchair accessible restroom": true
+                },
+                "Amenities": {
+                    "Restroom": true
+                },
+                "Planning": {
+                    "Appointments recommended": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": null,
+            "reviews_per_score_1": null,
+            "reviews_per_score_2": null,
+            "reviews_per_score_3": null,
+            "reviews_per_score_4": null,
+            "reviews_per_score_5": null,
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": "100577806231759253141",
+            "verified": true,
+            "owner_title": "Utica Park Clinic - Bartlesville",
+            "owner_link": "https://www.google.com/maps/contrib/100577806231759253141",
+            "location_link": "https://www.google.com/maps/place/Utica+Park+Clinic+-+Bartlesville/@36.714252099999996,-95.93579419999999,14z/data=!4m8!1m2!2m1!1sUtica+Park+Clinic+-+Bartlesville!3m4!1s0x87b711e8cbe6bc51:0x73856893de6c808d!8m2!3d36.714252099999996!4d-95.93579419999999"
+        }
+    ],
+    "location": {
+        "lat": 36.7142521,
+        "lng": -95.93579419999999
+    }
+}

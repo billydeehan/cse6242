@@ -1,0 +1,107 @@
+{
+    "hospital_name": "Mercy Regional EMS Vinita Station",
+    "place_id": "ChIJ525ij47Rt4cRyNPxM88dnUg",
+    "reviews": [
+        {
+            "query": "ChIJ525ij47Rt4cRyNPxM88dnUg",
+            "name": "Mercy Regional EMS Vinita Station",
+            "place_id": "ChIJ525ij47Rt4cRyNPxM88dnUg",
+            "google_id": "0x87b7d18e8f626ee7:0x489d1dcf33f1d3c8",
+            "full_address": "250 N Wilson St, Vinita, OK 74301",
+            "borough": null,
+            "street": "250 N Wilson St",
+            "postal_code": "74301",
+            "area_service": false,
+            "country_code": "US",
+            "country": "United States of America",
+            "city": "Vinita",
+            "us_state": "Oklahoma",
+            "state": "Oklahoma",
+            "plus_code": "8686JRRX+X6",
+            "latitude": 36.6424235,
+            "longitude": -95.1519016,
+            "time_zone": "America/Chicago",
+            "popular_times": null,
+            "site": null,
+            "phone": null,
+            "type": "Medical Center",
+            "logo": null,
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "Medical Center",
+            "subtypes": "Medical Center",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 5,
+            "reviews": 1,
+            "reviews_data": [
+                {
+                    "google_id": "0x87b7d18e8f626ee7:0x489d1dcf33f1d3c8",
+                    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlbk9fVll3EAE",
+                    "review_pagination_id": null,
+                    "author_link": "https://www.google.com/maps/contrib/110305295012819449081?hl=en-US",
+                    "author_title": "Edna brookfield",
+                    "author_id": "110305295012819449081",
+                    "author_image": "https://lh3.googleusercontent.com/a/ACg8ocK_0Zc64Cmakg9LO65--QUnvYeXckqsHA7e63BJy91q=s120-c-rp-mo-br100",
+                    "review_text": null,
+                    "review_img_url": null,
+                    "review_img_urls": null,
+                    "review_questions": null,
+                    "review_photo_ids": null,
+                    "owner_answer": null,
+                    "owner_answer_timestamp": null,
+                    "owner_answer_timestamp_datetime_utc": null,
+                    "review_link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNlbk9fVll3EAE!2m1!1s0x0:0x489d1dcf33f1d3c8!3m1!1s2@1:CIHM0ogKEICAgICenO_VYw%7CCgwIjYvomAYQoJLvkQE%7C?hl=en-US",
+                    "review_rating": 5,
+                    "review_timestamp": 1662649741,
+                    "review_datetime_utc": "09/08/2022 15:09:01",
+                    "review_likes": 0,
+                    "reviews_id": "5232371117841306568"
+                }
+            ],
+            "photos_count": 1,
+            "cid": "5232371117841306568",
+            "reviews_link": null,
+            "reviews_id": "5232371117841306568",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kI8cvc2Fe5dTzDGhvtscRQ&cb_client=search.gws-prod.gps&w=800&h=500&yaw=109.53728&pitch=0&thumbfov=100",
+            "street_view": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kI8cvc2Fe5dTzDGhvtscRQ&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=109.53728&pitch=0&thumbfov=100",
+            "working_hours_old_format": null,
+            "working_hours": null,
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Accessibility": {
+                    "Wheelchair accessible entrance": true,
+                    "Wheelchair accessible parking lot": true,
+                    "Wheelchair accessible restroom": true
+                },
+                "Amenities": {
+                    "Restroom": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": null,
+            "verified": false,
+            "owner_title": "Mercy Regional EMS Vinita Station",
+            "owner_link": null,
+            "location_link": "https://www.google.com/maps/place/Mercy+Regional+EMS+Vinita+Station/@36.6424235,-95.1519016,14z/data=!4m8!1m2!2m1!1sMercy+Regional+EMS+Vinita+Station!3m4!1s0x87b7d18e8f626ee7:0x489d1dcf33f1d3c8!8m2!3d36.6424235!4d-95.1519016"
+        }
+    ],
+    "location": {
+        "lat": 36.6424235,
+        "lng": -95.1519016
+    }
+}
