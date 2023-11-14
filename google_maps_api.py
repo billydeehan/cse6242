@@ -28,7 +28,7 @@ def fetch_reviews2(place_id, limit):
 # Perform a search for hospitals in the U.S.
 search_result = gmaps.places_nearby(
     location=(37.0902, -95.7129),  # Center of the United States
-    radius=500000,               # Adjust the radius as needed
+    radius=5000000,               # Adjust the radius as needed
     keyword='hospital',
     type='hospital'
 )
