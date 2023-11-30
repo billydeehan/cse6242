@@ -2,8 +2,11 @@ import numpy as np
 import openai
 import json
 from collections import defaultdict
+from dotenv import load_dotenv
+import os
 
-from langchain import LLMChain
+# from langchain import LLMChain
+from langchain.chains import LLMChain
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.prompts.chat import (
@@ -15,7 +18,9 @@ from langchain.prompts.chat import (
 # https://medium.com/@kbdhunga/text-clustering-and-labeling-utilizing-openai-api-677271e0763c
 # https://pypi.org/project/keybert/
 
-openai.api_key = ''
+load_dotenv()
+print('key', os.getenv('OPENAI_API_KEY'))
+openai.api_key = os.getenv('OPENAI_API_KEY')
 input_datapath = 'data/all_reviews_with_embeddings.json'
 
 def call_openai_api(messages):
@@ -66,10 +71,11 @@ for hospital in data['hospitals']:
         cluster_reviews[cluster_id].append(review_txt)
 
 
+
 for cluster_id, reviews in cluster_reviews.items():
     chain = LLMChain(
         llm=ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-16k"), prompt=get_prompt(), verbose=False
     )
-    review_str = '\n'.join(reviews)
+    review_str = '\n'.join(reviews[:10])
     result = chain.run({"reviews": review_str})
     print(result)
