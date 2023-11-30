@@ -30,7 +30,7 @@ def queryReviews(query='SELECT * FROM c OFFSET 0 LIMIT 10000'):
 def addCluster(reviews, cluster_label = 1):
     container = getContainer()
     for review in reviews:
-        review['cluster'] = cluster_label
+        review['cluster'] = cluster_label   
         container.upsert_item(body=review)
 
 reviews = queryReviews(query='SELECT * FROM c')
