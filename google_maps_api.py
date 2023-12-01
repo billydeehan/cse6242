@@ -90,7 +90,7 @@ def getHospitalsFromZips():
     zip_count = 0
     hospital_count = 0
     hospital_file_count = 0
-    for filename in os.listdir(input_folder):
+    for filename in os.listdir(input_folder):   
         zip_count += 1
         filepath = os.path.join(input_folder, filename)
         with open(filepath,'r') as json_file:
